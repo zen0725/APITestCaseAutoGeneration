@@ -1,0 +1,24 @@
+discovery:
+  registry:
+    # 支持多种注册中心，引擎会自动检测
+    eureka: "http://eureka-server:8761"
+    consul: "http://consul-server:8500"
+    nacos: "http://nacos-server:8848"
+    kubernetes: "https://kubernetes-api-server"
+
+  polling:
+    interval_seconds: 30
+    health_check_timeout: 5
+    api_docs_timeout: 10
+    max_retries: 3
+
+  notifications:
+    enabled: true
+    webhook_url: "https://your-webhook-url"
+    slack_channel: "#api-changes"
+    email_alerts: "team@example.com"
+
+  caching:
+    enabled: true
+    ttl_seconds: 300
+    max_size: 1000

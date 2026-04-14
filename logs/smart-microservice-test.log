@@ -1,0 +1,944 @@
+2026-04-07 16:14:25,319 - smart-microservice-test - INFO - ✅ 配置管理模块测试通过
+2026-04-07 16:14:25,319 - smart-microservice-test - INFO - 测试信息日志
+2026-04-07 16:14:25,319 - smart-microservice-test - WARNING - 测试警告日志
+2026-04-07 16:14:25,319 - smart-microservice-test - ERROR - 测试错误日志
+2026-04-07 16:14:25,319 - smart-microservice-test - CRITICAL - 测试严重日志
+2026-04-07 16:14:25,319 - smart-microservice-test - INFO - ✅ 日志系统测试通过
+2026-04-07 16:14:25,319 - smart-microservice-test - ERROR - [UNKNOWN_ERROR] 测试错误
+2026-04-07 16:15:05,574 - smart-microservice-test - INFO - ✅ 配置管理模块测试通过
+2026-04-07 16:15:05,574 - smart-microservice-test - INFO - 测试信息日志
+2026-04-07 16:15:05,574 - smart-microservice-test - WARNING - 测试警告日志
+2026-04-07 16:15:05,575 - smart-microservice-test - ERROR - 测试错误日志
+2026-04-07 16:15:05,575 - smart-microservice-test - CRITICAL - 测试严重日志
+2026-04-07 16:15:05,575 - smart-microservice-test - INFO - ✅ 日志系统测试通过
+2026-04-07 16:15:05,575 - smart-microservice-test - ERROR - [UNKNOWN_ERROR] 测试错误
+2026-04-07 16:15:05,576 - smart-microservice-test - ERROR - [SERVICE_DISCOVERY_FAILED] 测试服务发现错误 - 详情: {}
+2026-04-07 16:15:05,576 - smart-microservice-test - WARNING - [TEST_GENERATION_FAILED] 测试测试生成错误 - 详情: {}
+2026-04-07 16:15:05,576 - smart-microservice-test - ERROR - [TEST_EXECUTION_FAILED] 测试测试执行错误 - 详情: {}
+2026-04-07 16:15:05,576 - smart-microservice-test - INFO - ✅ 错误处理机制测试通过
+2026-04-07 16:16:23,372 - smart-microservice-test - INFO - ✅ 配置管理模块测试通过
+2026-04-07 16:16:23,372 - smart-microservice-test - INFO - 测试信息日志
+2026-04-07 16:16:23,372 - smart-microservice-test - WARNING - 测试警告日志
+2026-04-07 16:16:23,372 - smart-microservice-test - ERROR - 测试错误日志
+2026-04-07 16:16:23,373 - smart-microservice-test - CRITICAL - 测试严重日志
+2026-04-07 16:16:23,373 - smart-microservice-test - INFO - ✅ 日志系统测试通过
+2026-04-07 16:16:23,373 - smart-microservice-test - ERROR - [UNKNOWN_ERROR] 测试错误
+2026-04-07 16:16:23,373 - smart-microservice-test - ERROR - [SERVICE_DISCOVERY_FAILED] 测试服务发现错误 - 详情: {}
+2026-04-07 16:16:23,373 - smart-microservice-test - WARNING - [TEST_GENERATION_FAILED] 测试测试生成错误 - 详情: {}
+2026-04-07 16:16:23,373 - smart-microservice-test - ERROR - [TEST_EXECUTION_FAILED] 测试测试执行错误 - 详情: {}
+2026-04-07 16:16:23,373 - smart-microservice-test - INFO - ✅ 错误处理机制测试通过
+2026-04-07 16:16:23,373 - smart-microservice-test - INFO - 验证响应: user-service GET /api/users/1
+2026-04-07 16:16:23,374 - smart-microservice-test - WARNING - 断言失败: 验证响应为有效JSON - 响应不是有效的JSON
+2026-04-07 16:16:23,374 - smart-microservice-test - INFO - 断言执行结果: 总计 2, 通过 1, 失败 1, 警告 0, 成功率 50.00%
+2026-04-07 16:17:43,698 - smart-microservice-test - INFO - ✅ 配置管理模块测试通过
+2026-04-07 16:17:43,699 - smart-microservice-test - INFO - 测试信息日志
+2026-04-07 16:17:43,699 - smart-microservice-test - WARNING - 测试警告日志
+2026-04-07 16:17:43,699 - smart-microservice-test - ERROR - 测试错误日志
+2026-04-07 16:17:43,699 - smart-microservice-test - CRITICAL - 测试严重日志
+2026-04-07 16:17:43,699 - smart-microservice-test - INFO - ✅ 日志系统测试通过
+2026-04-07 16:17:43,700 - smart-microservice-test - ERROR - [UNKNOWN_ERROR] 测试错误
+2026-04-07 16:17:43,700 - smart-microservice-test - ERROR - [SERVICE_DISCOVERY_FAILED] 测试服务发现错误 - 详情: {}
+2026-04-07 16:17:43,700 - smart-microservice-test - WARNING - [TEST_GENERATION_FAILED] 测试测试生成错误 - 详情: {}
+2026-04-07 16:17:43,700 - smart-microservice-test - ERROR - [TEST_EXECUTION_FAILED] 测试测试执行错误 - 详情: {}
+2026-04-07 16:17:43,700 - smart-microservice-test - INFO - ✅ 错误处理机制测试通过
+2026-04-07 16:17:43,700 - smart-microservice-test - INFO - 验证响应: user-service GET /api/users/1
+2026-04-07 16:17:43,701 - smart-microservice-test - WARNING - 断言失败: 验证响应为有效JSON - 响应不是有效的JSON
+2026-04-07 16:17:43,701 - smart-microservice-test - INFO - 断言执行结果: 总计 2, 通过 1, 失败 1, 警告 0, 成功率 50.00%
+2026-04-07 16:17:43,701 - smart-microservice-test - INFO - ✅ 智能断言引擎测试通过
+2026-04-07 16:17:43,701 - smart-microservice-test - INFO - 注册服务: user-service，依赖: ['auth-service']
+2026-04-07 16:17:43,701 - smart-microservice-test - INFO - 注册服务: auth-service，依赖: ['config-service']
+2026-04-07 16:17:43,701 - smart-microservice-test - INFO - 注册服务: config-service，依赖: []
+2026-04-07 16:17:43,701 - smart-microservice-test - INFO - 清空依赖关系
+2026-04-07 16:17:43,701 - smart-microservice-test - INFO - ✅ 服务依赖管理测试通过
+2026-04-07 16:17:43,708 - smart-microservice-test - WARNING - 临时测试数据ID不存在: 8e4d4d0b-08b9-49f3-bb99-f0611cc5946f
+2026-04-07 16:17:43,708 - smart-microservice-test - INFO - 清理所有临时测试数据
+2026-04-07 16:17:43,708 - smart-microservice-test - INFO - ✅ 测试数据管理测试通过
+2026-04-07 16:17:43,709 - smart-microservice-test - INFO - ✅ 服务发现引擎测试通过
+2026-04-07 16:18:45,766 - smart-microservice-test - INFO - ✅ 配置管理模块测试通过
+2026-04-07 16:18:45,766 - smart-microservice-test - INFO - 测试信息日志
+2026-04-07 16:18:45,766 - smart-microservice-test - WARNING - 测试警告日志
+2026-04-07 16:18:45,766 - smart-microservice-test - ERROR - 测试错误日志
+2026-04-07 16:18:45,766 - smart-microservice-test - CRITICAL - 测试严重日志
+2026-04-07 16:18:45,766 - smart-microservice-test - INFO - ✅ 日志系统测试通过
+2026-04-07 16:18:45,767 - smart-microservice-test - ERROR - [UNKNOWN_ERROR] 测试错误
+2026-04-07 16:18:45,767 - smart-microservice-test - ERROR - [SERVICE_DISCOVERY_FAILED] 测试服务发现错误 - 详情: {}
+2026-04-07 16:18:45,767 - smart-microservice-test - WARNING - [TEST_GENERATION_FAILED] 测试测试生成错误 - 详情: {}
+2026-04-07 16:18:45,767 - smart-microservice-test - ERROR - [TEST_EXECUTION_FAILED] 测试测试执行错误 - 详情: {}
+2026-04-07 16:18:45,767 - smart-microservice-test - INFO - ✅ 错误处理机制测试通过
+2026-04-07 16:18:45,767 - smart-microservice-test - INFO - 验证响应: user-service GET /api/users/1
+2026-04-07 16:18:45,767 - smart-microservice-test - WARNING - 断言失败: 验证响应为有效JSON - 响应不是有效的JSON
+2026-04-07 16:18:45,767 - smart-microservice-test - INFO - 断言执行结果: 总计 2, 通过 1, 失败 1, 警告 0, 成功率 50.00%
+2026-04-07 16:18:45,768 - smart-microservice-test - INFO - ✅ 智能断言引擎测试通过
+2026-04-07 16:18:45,768 - smart-microservice-test - INFO - 注册服务: user-service，依赖: ['auth-service']
+2026-04-07 16:18:45,768 - smart-microservice-test - INFO - 注册服务: auth-service，依赖: ['config-service']
+2026-04-07 16:18:45,768 - smart-microservice-test - INFO - 注册服务: config-service，依赖: []
+2026-04-07 16:18:45,769 - smart-microservice-test - INFO - 清空依赖关系
+2026-04-07 16:18:45,769 - smart-microservice-test - INFO - ✅ 服务依赖管理测试通过
+2026-04-07 16:18:45,776 - smart-microservice-test - WARNING - 临时测试数据ID不存在: 814d19c9-0560-4e10-ae69-0ca717a8eb23
+2026-04-07 16:18:45,776 - smart-microservice-test - INFO - 清理所有临时测试数据
+2026-04-07 16:18:45,776 - smart-microservice-test - INFO - ✅ 测试数据管理测试通过
+2026-04-07 16:18:45,777 - smart-microservice-test - INFO - ✅ 服务发现引擎测试通过
+2026-04-07 16:19:48,567 - smart-microservice-test - INFO - ✅ 配置管理模块测试通过
+2026-04-07 16:19:48,568 - smart-microservice-test - INFO - 测试信息日志
+2026-04-07 16:19:48,568 - smart-microservice-test - WARNING - 测试警告日志
+2026-04-07 16:19:48,568 - smart-microservice-test - ERROR - 测试错误日志
+2026-04-07 16:19:48,568 - smart-microservice-test - CRITICAL - 测试严重日志
+2026-04-07 16:19:48,568 - smart-microservice-test - INFO - ✅ 日志系统测试通过
+2026-04-07 16:19:48,568 - smart-microservice-test - ERROR - [UNKNOWN_ERROR] 测试错误
+2026-04-07 16:19:48,568 - smart-microservice-test - ERROR - [SERVICE_DISCOVERY_FAILED] 测试服务发现错误 - 详情: {}
+2026-04-07 16:19:48,568 - smart-microservice-test - WARNING - [TEST_GENERATION_FAILED] 测试测试生成错误 - 详情: {}
+2026-04-07 16:19:48,568 - smart-microservice-test - ERROR - [TEST_EXECUTION_FAILED] 测试测试执行错误 - 详情: {}
+2026-04-07 16:19:48,568 - smart-microservice-test - INFO - ✅ 错误处理机制测试通过
+2026-04-07 16:19:48,569 - smart-microservice-test - INFO - 验证响应: user-service GET /api/users/1
+2026-04-07 16:19:48,569 - smart-microservice-test - WARNING - 断言失败: 验证响应为有效JSON - 响应不是有效的JSON
+2026-04-07 16:19:48,569 - smart-microservice-test - INFO - 断言执行结果: 总计 2, 通过 1, 失败 1, 警告 0, 成功率 50.00%
+2026-04-07 16:19:48,569 - smart-microservice-test - INFO - ✅ 智能断言引擎测试通过
+2026-04-07 16:19:48,569 - smart-microservice-test - INFO - 注册服务: user-service，依赖: ['auth-service']
+2026-04-07 16:19:48,569 - smart-microservice-test - INFO - 注册服务: auth-service，依赖: ['config-service']
+2026-04-07 16:19:48,569 - smart-microservice-test - INFO - 注册服务: config-service，依赖: []
+2026-04-07 16:19:48,569 - smart-microservice-test - INFO - 清空依赖关系
+2026-04-07 16:19:48,569 - smart-microservice-test - INFO - ✅ 服务依赖管理测试通过
+2026-04-07 16:19:48,576 - smart-microservice-test - WARNING - 临时测试数据ID不存在: c22a8029-2783-4a67-afae-79873a8584d7
+2026-04-07 16:19:48,576 - smart-microservice-test - INFO - 清理所有临时测试数据
+2026-04-07 16:19:48,576 - smart-microservice-test - INFO - ✅ 测试数据管理测试通过
+2026-04-07 16:19:48,577 - smart-microservice-test - INFO - ✅ 服务发现引擎测试通过
+2026-04-07 16:19:48,585 - smart-microservice-test - INFO - ✅ 测试生成引擎测试通过
+2026-04-07 16:20:49,707 - smart-microservice-test - INFO - ✅ 配置管理模块测试通过
+2026-04-07 16:20:49,707 - smart-microservice-test - INFO - 测试信息日志
+2026-04-07 16:20:49,707 - smart-microservice-test - WARNING - 测试警告日志
+2026-04-07 16:20:49,708 - smart-microservice-test - ERROR - 测试错误日志
+2026-04-07 16:20:49,708 - smart-microservice-test - CRITICAL - 测试严重日志
+2026-04-07 16:20:49,708 - smart-microservice-test - INFO - ✅ 日志系统测试通过
+2026-04-07 16:20:49,708 - smart-microservice-test - ERROR - [UNKNOWN_ERROR] 测试错误
+2026-04-07 16:20:49,708 - smart-microservice-test - ERROR - [SERVICE_DISCOVERY_FAILED] 测试服务发现错误 - 详情: {}
+2026-04-07 16:20:49,708 - smart-microservice-test - WARNING - [TEST_GENERATION_FAILED] 测试测试生成错误 - 详情: {}
+2026-04-07 16:20:49,708 - smart-microservice-test - ERROR - [TEST_EXECUTION_FAILED] 测试测试执行错误 - 详情: {}
+2026-04-07 16:20:49,709 - smart-microservice-test - INFO - ✅ 错误处理机制测试通过
+2026-04-07 16:20:49,709 - smart-microservice-test - INFO - 验证响应: user-service GET /api/users/1
+2026-04-07 16:20:49,709 - smart-microservice-test - WARNING - 断言失败: 验证响应为有效JSON - 响应不是有效的JSON
+2026-04-07 16:20:49,709 - smart-microservice-test - INFO - 断言执行结果: 总计 2, 通过 1, 失败 1, 警告 0, 成功率 50.00%
+2026-04-07 16:20:49,709 - smart-microservice-test - INFO - ✅ 智能断言引擎测试通过
+2026-04-07 16:20:49,709 - smart-microservice-test - INFO - 注册服务: user-service，依赖: ['auth-service']
+2026-04-07 16:20:49,709 - smart-microservice-test - INFO - 注册服务: auth-service，依赖: ['config-service']
+2026-04-07 16:20:49,709 - smart-microservice-test - INFO - 注册服务: config-service，依赖: []
+2026-04-07 16:20:49,710 - smart-microservice-test - INFO - 清空依赖关系
+2026-04-07 16:20:49,710 - smart-microservice-test - INFO - ✅ 服务依赖管理测试通过
+2026-04-07 16:20:49,716 - smart-microservice-test - WARNING - 临时测试数据ID不存在: 761696ce-7a36-4a19-9e6b-2532b1c9a475
+2026-04-07 16:20:49,716 - smart-microservice-test - INFO - 清理所有临时测试数据
+2026-04-07 16:20:49,717 - smart-microservice-test - INFO - ✅ 测试数据管理测试通过
+2026-04-07 16:20:49,717 - smart-microservice-test - INFO - ✅ 服务发现引擎测试通过
+2026-04-07 16:20:49,725 - smart-microservice-test - INFO - ✅ 测试生成引擎测试通过
+2026-04-07 16:21:50,307 - smart-microservice-test - INFO - ✅ 配置管理模块测试通过
+2026-04-07 16:21:50,307 - smart-microservice-test - INFO - 测试信息日志
+2026-04-07 16:21:50,307 - smart-microservice-test - WARNING - 测试警告日志
+2026-04-07 16:21:50,307 - smart-microservice-test - ERROR - 测试错误日志
+2026-04-07 16:21:50,308 - smart-microservice-test - CRITICAL - 测试严重日志
+2026-04-07 16:21:50,308 - smart-microservice-test - INFO - ✅ 日志系统测试通过
+2026-04-07 16:21:50,308 - smart-microservice-test - ERROR - [UNKNOWN_ERROR] 测试错误
+2026-04-07 16:21:50,308 - smart-microservice-test - ERROR - [SERVICE_DISCOVERY_FAILED] 测试服务发现错误 - 详情: {}
+2026-04-07 16:21:50,308 - smart-microservice-test - WARNING - [TEST_GENERATION_FAILED] 测试测试生成错误 - 详情: {}
+2026-04-07 16:21:50,308 - smart-microservice-test - ERROR - [TEST_EXECUTION_FAILED] 测试测试执行错误 - 详情: {}
+2026-04-07 16:21:50,308 - smart-microservice-test - INFO - ✅ 错误处理机制测试通过
+2026-04-07 16:21:50,309 - smart-microservice-test - INFO - 验证响应: user-service GET /api/users/1
+2026-04-07 16:21:50,309 - smart-microservice-test - WARNING - 断言失败: 验证响应为有效JSON - 响应不是有效的JSON
+2026-04-07 16:21:50,309 - smart-microservice-test - INFO - 断言执行结果: 总计 2, 通过 1, 失败 1, 警告 0, 成功率 50.00%
+2026-04-07 16:21:50,309 - smart-microservice-test - INFO - ✅ 智能断言引擎测试通过
+2026-04-07 16:21:50,309 - smart-microservice-test - INFO - 注册服务: user-service，依赖: ['auth-service']
+2026-04-07 16:21:50,309 - smart-microservice-test - INFO - 注册服务: auth-service，依赖: ['config-service']
+2026-04-07 16:21:50,309 - smart-microservice-test - INFO - 注册服务: config-service，依赖: []
+2026-04-07 16:21:50,310 - smart-microservice-test - INFO - 清空依赖关系
+2026-04-07 16:21:50,310 - smart-microservice-test - INFO - ✅ 服务依赖管理测试通过
+2026-04-07 16:21:50,316 - smart-microservice-test - WARNING - 临时测试数据ID不存在: 8adaf374-6ab3-4789-8bcb-2e6edfca30da
+2026-04-07 16:21:50,316 - smart-microservice-test - INFO - 清理所有临时测试数据
+2026-04-07 16:21:50,317 - smart-microservice-test - INFO - ✅ 测试数据管理测试通过
+2026-04-07 16:21:50,317 - smart-microservice-test - INFO - ✅ 服务发现引擎测试通过
+2026-04-07 16:21:50,324 - smart-microservice-test - INFO - ✅ 测试生成引擎测试通过
+2026-04-07 16:21:50,333 - smart-microservice-test - INFO - ✅ 测试执行引擎测试通过
+2026-04-07 16:21:50,337 - smart-microservice-test - INFO - 测试集成功能
+2026-04-07 16:21:50,338 - smart-microservice-test - ERROR - [UNKNOWN_ERROR] 测试集成错误
+2026-04-07 16:21:50,338 - smart-microservice-test - INFO - 注册服务: test-service，依赖: []
+2026-04-07 16:21:50,338 - smart-microservice-test - INFO - 清空依赖关系
+2026-04-07 16:21:50,338 - smart-microservice-test - INFO - 清理所有临时测试数据
+2026-04-07 16:21:50,339 - smart-microservice-test - INFO - ✅ 集成功能测试通过
+2026-04-07 16:21:50,340 - smart-microservice-test - INFO - 🎉 所有测试通过！
+2026-04-13 16:20:29,201 - smart-microservice-test - INFO - 开始处理OpenAPI文件: api-docs.json
+2026-04-13 16:20:29,225 - smart-microservice-test - INFO - 成功加载OpenAPI规范
+2026-04-13 16:20:29,229 - smart-microservice-test - INFO - 生成测试用例...
+2026-04-13 16:20:30,577 - smart-microservice-test - INFO - 为服务 vesp-gvs-vehicle 生成了 115 个测试用例
+2026-04-13 16:20:30,581 - smart-microservice-test - INFO - 测试用例已导出到: generated_tests/generated_test_cases_20260413_162030.json
+2026-04-13 16:20:30,583 - smart-microservice-test - INFO - Python测试代码已导出到: generated_tests/test_generated_20260413_162030.py
+2026-04-13 16:20:30,583 - smart-microservice-test - INFO - 🎉 处理完成！总共生成了 115 个测试用例
+2026-04-13 16:49:55,256 - smart-microservice-test - INFO - 🚀 开始微服务智能测试套件执行...
+2026-04-13 16:49:55,256 - smart-microservice-test - INFO - 📁 从本地文件加载OpenAPI规范: api-docs.json
+2026-04-13 16:49:55,257 - smart-microservice-test - ERROR - 加载OpenAPI文件失败: No module named 'serviceDiscover.discovery_models'
+2026-04-13 16:49:55,257 - smart-microservice-test - INFO - 测试完成！
+2026-04-13 16:52:19,532 - smart-microservice-test - INFO - 🚀 开始微服务智能测试套件执行...
+2026-04-13 16:52:19,532 - smart-microservice-test - INFO - 📁 从本地文件加载OpenAPI规范: api-docs.json
+2026-04-13 16:52:19,573 - smart-microservice-test - INFO - 成功加载 1 个API契约
+2026-04-13 16:52:19,573 - smart-microservice-test - INFO - 🎯 初始化测试生成引擎...
+2026-04-13 16:52:19,575 - smart-microservice-test - INFO - 📝 生成测试用例...
+2026-04-13 16:52:21,432 - smart-microservice-test - ERROR - 为 vesp-gvs-vehicle相关接口 生成测试用例失败: __init__() missing 1 required positional argument: 'base_url'
+2026-04-13 16:52:21,432 - smart-microservice-test - INFO - ⚡ 初始化测试执行引擎...
+2026-04-13 16:52:21,446 - smart-microservice-test - WARNING - ⚠️  没有生成测试用例，跳过执行
+2026-04-13 16:52:21,446 - smart-microservice-test - ERROR - 测试执行失败: 'SmartTestExecutionEngine' object has no attribute 'logger'
+2026-04-13 16:53:21,480 - smart-microservice-test - INFO - 🚀 开始微服务智能测试套件执行...
+2026-04-13 16:53:21,480 - smart-microservice-test - INFO - 📁 从本地文件加载OpenAPI规范: api-docs.json
+2026-04-13 16:53:21,522 - smart-microservice-test - INFO - 成功加载 1 个API契约
+2026-04-13 16:53:21,523 - smart-microservice-test - INFO - 🎯 初始化测试生成引擎...
+2026-04-13 16:53:21,525 - smart-microservice-test - INFO - 📝 生成测试用例...
+2026-04-13 16:53:22,521 - smart-microservice-test - INFO - 为 vesp-gvs-vehicle相关接口 生成 115 个测试用例
+2026-04-13 16:53:22,522 - smart-microservice-test - INFO - ⚡ 初始化测试执行引擎...
+2026-04-13 16:53:22,532 - smart-microservice-test - INFO - 🏃 执行 115 个测试用例...
+2026-04-13 16:53:22,532 - smart-microservice-test - ERROR - 测试执行失败: 'SmartTestExecutionEngine' object has no attribute 'logger'
+2026-04-13 16:55:09,710 - smart-microservice-test - INFO - 🚀 开始微服务智能测试套件执行...
+2026-04-13 16:55:09,710 - smart-microservice-test - INFO - 📁 从本地文件加载OpenAPI规范: api-docs.json
+2026-04-13 16:55:09,756 - smart-microservice-test - INFO - 成功加载 1 个API契约
+2026-04-13 16:55:09,756 - smart-microservice-test - INFO - 🎯 初始化测试生成引擎...
+2026-04-13 16:55:09,758 - smart-microservice-test - INFO - 📝 生成测试用例...
+2026-04-13 16:55:10,623 - smart-microservice-test - INFO - 为 vesp-gvs-vehicle相关接口 生成 115 个测试用例
+2026-04-13 16:55:10,623 - smart-microservice-test - INFO - ⚡ 初始化测试执行引擎...
+2026-04-13 16:55:10,632 - smart-microservice-test - INFO - 🏃 执行 115 个测试用例...
+2026-04-13 16:55:10,633 - smart-microservice-test - INFO - 开始执行测试套件，共 115 个测试用例
+2026-04-13 16:55:10,633 - smart-microservice-test - ERROR - 测试执行失败: 'ExecutionConfig' object has no attribute 'resource_limits'
+2026-04-13 16:57:09,432 - smart-microservice-test - INFO - 🚀 开始微服务智能测试套件执行...
+2026-04-13 16:57:09,432 - smart-microservice-test - INFO - 📁 从本地文件加载OpenAPI规范: api-docs.json
+2026-04-13 16:57:09,481 - smart-microservice-test - INFO - 成功加载 1 个API契约
+2026-04-13 16:57:09,481 - smart-microservice-test - INFO - 🎯 初始化测试生成引擎...
+2026-04-13 16:57:09,484 - smart-microservice-test - INFO - 📝 生成测试用例...
+2026-04-13 16:57:10,619 - smart-microservice-test - INFO - 为 vesp-gvs-vehicle相关接口 生成 115 个测试用例
+2026-04-13 16:57:10,620 - smart-microservice-test - INFO - ⚡ 初始化测试执行引擎...
+2026-04-13 16:57:10,632 - smart-microservice-test - INFO - 🏃 执行 115 个测试用例...
+2026-04-13 16:57:10,632 - smart-microservice-test - INFO - 开始执行测试套件，共 115 个测试用例
+2026-04-13 16:57:10,634 - smart-microservice-test - INFO - 执行测试: 0205fd62
+2026-04-13 16:57:10,634 - smart-microservice-test - INFO - 执行测试: 19c86363
+2026-04-13 16:57:10,635 - smart-microservice-test - INFO - 执行测试: 6715813c
+2026-04-13 16:57:10,635 - smart-microservice-test - INFO - 执行测试: cd76cf6d
+2026-04-13 16:57:10,635 - smart-microservice-test - INFO - 执行测试: 5b76ac2a
+2026-04-13 16:57:10,635 - smart-microservice-test - INFO - 执行测试: 1043accd
+2026-04-13 16:57:10,636 - smart-microservice-test - INFO - 执行测试: d3e8f443
+2026-04-13 16:57:10,636 - smart-microservice-test - INFO - 执行测试: deb512c8
+2026-04-13 16:57:10,636 - smart-microservice-test - INFO - 执行测试: eb49433f
+2026-04-13 16:57:10,637 - smart-microservice-test - INFO - 执行测试: ebd70f78
+2026-04-13 16:57:11,745 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,745 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,746 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,746 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,746 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,746 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,746 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,747 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,747 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,747 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,843 - smart-microservice-test - INFO - 执行测试: 2186ad18
+2026-04-13 16:57:11,844 - smart-microservice-test - INFO - 执行测试: b9ce97b6
+2026-04-13 16:57:11,844 - smart-microservice-test - INFO - 执行测试: b0229bfd
+2026-04-13 16:57:11,845 - smart-microservice-test - INFO - 执行测试: 24ff8cb5
+2026-04-13 16:57:11,845 - smart-microservice-test - INFO - 执行测试: 460fc93d
+2026-04-13 16:57:11,845 - smart-microservice-test - INFO - 执行测试: 0e201490
+2026-04-13 16:57:11,845 - smart-microservice-test - INFO - 执行测试: f011a002
+2026-04-13 16:57:11,846 - smart-microservice-test - INFO - 执行测试: afaff24e
+2026-04-13 16:57:11,846 - smart-microservice-test - INFO - 执行测试: 0b830494
+2026-04-13 16:57:11,847 - smart-microservice-test - INFO - 执行测试: 1c4ad9a9
+2026-04-13 16:57:11,852 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,855 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,855 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,856 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,856 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,856 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,857 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,857 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,857 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,857 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,945 - smart-microservice-test - INFO - 执行测试: 97a28938
+2026-04-13 16:57:11,945 - smart-microservice-test - INFO - 执行测试: 40ea7bbf
+2026-04-13 16:57:11,946 - smart-microservice-test - INFO - 执行测试: 21f4f234
+2026-04-13 16:57:11,947 - smart-microservice-test - INFO - 执行测试: 683fb5cf
+2026-04-13 16:57:11,947 - smart-microservice-test - INFO - 执行测试: 147eba98
+2026-04-13 16:57:11,948 - smart-microservice-test - INFO - 执行测试: dd27e3a8
+2026-04-13 16:57:11,948 - smart-microservice-test - INFO - 执行测试: 03ae43cd
+2026-04-13 16:57:11,949 - smart-microservice-test - INFO - 执行测试: 1a431e18
+2026-04-13 16:57:11,949 - smart-microservice-test - INFO - 执行测试: a741a272
+2026-04-13 16:57:11,950 - smart-microservice-test - INFO - 执行测试: 50d5d1c7
+2026-04-13 16:57:11,957 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,958 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,958 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,959 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,959 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,959 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,959 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,960 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,960 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:11,961 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,046 - smart-microservice-test - INFO - 执行测试: 4bd02843
+2026-04-13 16:57:12,047 - smart-microservice-test - INFO - 执行测试: dd3475cc
+2026-04-13 16:57:12,047 - smart-microservice-test - INFO - 执行测试: 37c96deb
+2026-04-13 16:57:12,047 - smart-microservice-test - INFO - 执行测试: 9a61af9a
+2026-04-13 16:57:12,048 - smart-microservice-test - INFO - 执行测试: 06bba375
+2026-04-13 16:57:12,048 - smart-microservice-test - INFO - 执行测试: c4436d97
+2026-04-13 16:57:12,048 - smart-microservice-test - INFO - 执行测试: 398f1e1c
+2026-04-13 16:57:12,049 - smart-microservice-test - INFO - 执行测试: 0a1e26b3
+2026-04-13 16:57:12,049 - smart-microservice-test - INFO - 执行测试: c3132eb6
+2026-04-13 16:57:12,050 - smart-microservice-test - INFO - 执行测试: 406875a5
+2026-04-13 16:57:12,056 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,058 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,058 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,058 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,058 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,058 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,059 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,059 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,060 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,060 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,147 - smart-microservice-test - INFO - 执行测试: 6658bbf9
+2026-04-13 16:57:12,148 - smart-microservice-test - INFO - 执行测试: 393c26d8
+2026-04-13 16:57:12,148 - smart-microservice-test - INFO - 执行测试: 3f3b9a1c
+2026-04-13 16:57:12,149 - smart-microservice-test - INFO - 执行测试: 186a082f
+2026-04-13 16:57:12,150 - smart-microservice-test - INFO - 执行测试: 9f8157d9
+2026-04-13 16:57:12,151 - smart-microservice-test - INFO - 执行测试: 2268d986
+2026-04-13 16:57:12,151 - smart-microservice-test - INFO - 执行测试: d36949c9
+2026-04-13 16:57:12,151 - smart-microservice-test - INFO - 执行测试: c8893677
+2026-04-13 16:57:12,152 - smart-microservice-test - INFO - 执行测试: 59b15370
+2026-04-13 16:57:12,153 - smart-microservice-test - INFO - 执行测试: f481c110
+2026-04-13 16:57:12,161 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,162 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,162 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,163 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,163 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,164 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,164 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,164 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,164 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,165 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,248 - smart-microservice-test - INFO - 执行测试: 3a61033f
+2026-04-13 16:57:12,249 - smart-microservice-test - INFO - 执行测试: d7a8e497
+2026-04-13 16:57:12,249 - smart-microservice-test - INFO - 执行测试: 27eb323d
+2026-04-13 16:57:12,250 - smart-microservice-test - INFO - 执行测试: e7eab1f1
+2026-04-13 16:57:12,250 - smart-microservice-test - INFO - 执行测试: ca06b48b
+2026-04-13 16:57:12,250 - smart-microservice-test - INFO - 执行测试: a5a82681
+2026-04-13 16:57:12,251 - smart-microservice-test - INFO - 执行测试: 970ac86b
+2026-04-13 16:57:12,251 - smart-microservice-test - INFO - 执行测试: 77eb38b2
+2026-04-13 16:57:12,251 - smart-microservice-test - INFO - 执行测试: 9b44375b
+2026-04-13 16:57:12,252 - smart-microservice-test - INFO - 执行测试: 7ae488d3
+2026-04-13 16:57:12,257 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,258 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,260 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,260 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,261 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,261 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,261 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,262 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,262 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,263 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,350 - smart-microservice-test - INFO - 执行测试: 54ddec9f
+2026-04-13 16:57:12,350 - smart-microservice-test - INFO - 执行测试: 7da787c7
+2026-04-13 16:57:12,351 - smart-microservice-test - INFO - 执行测试: 8c6017eb
+2026-04-13 16:57:12,351 - smart-microservice-test - INFO - 执行测试: d7ec4c6a
+2026-04-13 16:57:12,352 - smart-microservice-test - INFO - 执行测试: e200cdbb
+2026-04-13 16:57:12,352 - smart-microservice-test - INFO - 执行测试: 86f43d50
+2026-04-13 16:57:12,352 - smart-microservice-test - INFO - 执行测试: 61270ab3
+2026-04-13 16:57:12,353 - smart-microservice-test - INFO - 执行测试: 91936b00
+2026-04-13 16:57:12,353 - smart-microservice-test - INFO - 执行测试: dc325884
+2026-04-13 16:57:12,354 - smart-microservice-test - INFO - 执行测试: fe4c9e0a
+2026-04-13 16:57:12,362 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,363 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,364 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,366 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,366 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,366 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,367 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,367 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,368 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,368 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,451 - smart-microservice-test - INFO - 执行测试: 006c54c9
+2026-04-13 16:57:12,451 - smart-microservice-test - INFO - 执行测试: b1a2cfbd
+2026-04-13 16:57:12,452 - smart-microservice-test - INFO - 执行测试: 203dadf4
+2026-04-13 16:57:12,452 - smart-microservice-test - INFO - 执行测试: 5aea3715
+2026-04-13 16:57:12,452 - smart-microservice-test - INFO - 执行测试: 365d77ae
+2026-04-13 16:57:12,453 - smart-microservice-test - INFO - 执行测试: aba1a15d
+2026-04-13 16:57:12,453 - smart-microservice-test - INFO - 执行测试: 175b2753
+2026-04-13 16:57:12,453 - smart-microservice-test - INFO - 执行测试: 739d6cd0
+2026-04-13 16:57:12,454 - smart-microservice-test - INFO - 执行测试: 1f57f6a2
+2026-04-13 16:57:12,455 - smart-microservice-test - INFO - 执行测试: ee139d5b
+2026-04-13 16:57:12,460 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,461 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,462 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,463 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,463 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,463 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,464 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,464 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,464 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,464 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,552 - smart-microservice-test - INFO - 执行测试: 7159b03c
+2026-04-13 16:57:12,553 - smart-microservice-test - INFO - 执行测试: c273d8fb
+2026-04-13 16:57:12,553 - smart-microservice-test - INFO - 执行测试: 0fe49c6d
+2026-04-13 16:57:12,554 - smart-microservice-test - INFO - 执行测试: 509307a1
+2026-04-13 16:57:12,554 - smart-microservice-test - INFO - 执行测试: a38fcd58
+2026-04-13 16:57:12,554 - smart-microservice-test - INFO - 执行测试: cbd18a8f
+2026-04-13 16:57:12,554 - smart-microservice-test - INFO - 执行测试: 62c7d958
+2026-04-13 16:57:12,555 - smart-microservice-test - INFO - 执行测试: 027611fd
+2026-04-13 16:57:12,555 - smart-microservice-test - INFO - 执行测试: eb75b782
+2026-04-13 16:57:12,556 - smart-microservice-test - INFO - 执行测试: 8c0bbe62
+2026-04-13 16:57:12,560 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,563 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,563 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,563 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,564 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,564 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,564 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,565 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,565 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,565 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,653 - smart-microservice-test - INFO - 执行测试: d1d03959
+2026-04-13 16:57:12,654 - smart-microservice-test - INFO - 执行测试: 0e753433
+2026-04-13 16:57:12,654 - smart-microservice-test - INFO - 执行测试: 274785cd
+2026-04-13 16:57:12,655 - smart-microservice-test - INFO - 执行测试: b50afbdc
+2026-04-13 16:57:12,655 - smart-microservice-test - INFO - 执行测试: 74f8d0c1
+2026-04-13 16:57:12,656 - smart-microservice-test - INFO - 执行测试: a2ae24a4
+2026-04-13 16:57:12,656 - smart-microservice-test - INFO - 执行测试: c0b93d07
+2026-04-13 16:57:12,657 - smart-microservice-test - INFO - 执行测试: ac85c91a
+2026-04-13 16:57:12,657 - smart-microservice-test - INFO - 执行测试: 8cb92b75
+2026-04-13 16:57:12,658 - smart-microservice-test - INFO - 执行测试: 56251f8e
+2026-04-13 16:57:12,667 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,667 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,668 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,668 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,669 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,669 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,669 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,670 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,670 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,670 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,755 - smart-microservice-test - INFO - 执行测试: e1073c53
+2026-04-13 16:57:12,755 - smart-microservice-test - INFO - 执行测试: f9458764
+2026-04-13 16:57:12,756 - smart-microservice-test - INFO - 执行测试: 5201bcb1
+2026-04-13 16:57:12,756 - smart-microservice-test - INFO - 执行测试: cd5a4717
+2026-04-13 16:57:12,757 - smart-microservice-test - INFO - 执行测试: f27b6fa7
+2026-04-13 16:57:12,757 - smart-microservice-test - INFO - 执行测试: 64ba86b2
+2026-04-13 16:57:12,757 - smart-microservice-test - INFO - 执行测试: ea22ec86
+2026-04-13 16:57:12,758 - smart-microservice-test - INFO - 执行测试: c7b02edb
+2026-04-13 16:57:12,758 - smart-microservice-test - INFO - 执行测试: 4ea615f0
+2026-04-13 16:57:12,765 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,766 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,766 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,766 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,766 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,767 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,767 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,767 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,768 - smart-microservice-test - ERROR - 测试执行异常: __init__() missing 3 required positional arguments: 'duration', 'start_time', and 'end_time'
+2026-04-13 16:57:12,856 - smart-microservice-test - INFO - 测试套件执行完成
+2026-04-13 16:57:12,857 - smart-microservice-test - INFO - ✅ 测试执行完成！
+2026-04-13 16:57:12,857 - smart-microservice-test - INFO - 总计: 109
+2026-04-13 16:57:12,857 - smart-microservice-test - INFO - 通过: 0
+2026-04-13 16:57:12,857 - smart-microservice-test - INFO - 失败: 0
+2026-04-13 16:57:12,857 - smart-microservice-test - INFO - 错误: 109
+2026-04-13 16:57:12,857 - smart-microservice-test - INFO - 成功率: 0.00%
+2026-04-13 16:57:12,858 - smart-microservice-test - ERROR - 测试执行失败: Object of type datetime is not JSON serializable
+2026-04-13 16:59:38,475 - smart-microservice-test - INFO - 🚀 开始微服务智能测试套件执行...
+2026-04-13 16:59:38,476 - smart-microservice-test - INFO - 📁 从本地文件加载OpenAPI规范: api-docs.json
+2026-04-13 16:59:38,642 - smart-microservice-test - INFO - 成功加载 1 个API契约
+2026-04-13 16:59:38,642 - smart-microservice-test - INFO - 🎯 初始化测试生成引擎...
+2026-04-13 16:59:38,647 - smart-microservice-test - INFO - 📝 生成测试用例...
+2026-04-13 16:59:39,634 - smart-microservice-test - INFO - 为 vesp-gvs-vehicle相关接口 生成 115 个测试用例
+2026-04-13 16:59:39,634 - smart-microservice-test - INFO - ⚡ 初始化测试执行引擎...
+2026-04-13 16:59:39,645 - smart-microservice-test - INFO - 🏃 执行 115 个测试用例...
+2026-04-13 16:59:39,645 - smart-microservice-test - INFO - 开始执行测试套件，共 115 个测试用例
+2026-04-13 16:59:39,647 - smart-microservice-test - INFO - 执行测试: 0205fd62
+2026-04-13 16:59:39,647 - smart-microservice-test - INFO - 执行测试: 19c86363
+2026-04-13 16:59:39,648 - smart-microservice-test - INFO - 执行测试: 6715813c
+2026-04-13 16:59:39,648 - smart-microservice-test - INFO - 执行测试: cd76cf6d
+2026-04-13 16:59:39,648 - smart-microservice-test - INFO - 执行测试: 5b76ac2a
+2026-04-13 16:59:39,648 - smart-microservice-test - INFO - 执行测试: 1043accd
+2026-04-13 16:59:39,649 - smart-microservice-test - INFO - 执行测试: d3e8f443
+2026-04-13 16:59:39,649 - smart-microservice-test - INFO - 执行测试: deb512c8
+2026-04-13 16:59:39,649 - smart-microservice-test - INFO - 执行测试: eb49433f
+2026-04-13 16:59:39,650 - smart-microservice-test - INFO - 执行测试: ebd70f78
+2026-04-13 16:59:39,749 - smart-microservice-test - INFO - 执行测试: 2186ad18
+2026-04-13 16:59:39,749 - smart-microservice-test - INFO - 执行测试: b9ce97b6
+2026-04-13 16:59:39,750 - smart-microservice-test - INFO - 执行测试: b0229bfd
+2026-04-13 16:59:39,750 - smart-microservice-test - INFO - 执行测试: 24ff8cb5
+2026-04-13 16:59:39,751 - smart-microservice-test - INFO - 执行测试: 460fc93d
+2026-04-13 16:59:39,751 - smart-microservice-test - INFO - 执行测试: 0e201490
+2026-04-13 16:59:39,752 - smart-microservice-test - INFO - 执行测试: f011a002
+2026-04-13 16:59:39,752 - smart-microservice-test - INFO - 执行测试: afaff24e
+2026-04-13 16:59:39,752 - smart-microservice-test - INFO - 执行测试: 0b830494
+2026-04-13 16:59:39,753 - smart-microservice-test - INFO - 执行测试: 1c4ad9a9
+2026-04-13 16:59:39,850 - smart-microservice-test - INFO - 执行测试: 97a28938
+2026-04-13 16:59:39,851 - smart-microservice-test - INFO - 执行测试: 40ea7bbf
+2026-04-13 16:59:39,851 - smart-microservice-test - INFO - 执行测试: 21f4f234
+2026-04-13 16:59:39,852 - smart-microservice-test - INFO - 执行测试: 683fb5cf
+2026-04-13 16:59:39,852 - smart-microservice-test - INFO - 执行测试: 147eba98
+2026-04-13 16:59:39,853 - smart-microservice-test - INFO - 执行测试: dd27e3a8
+2026-04-13 16:59:39,853 - smart-microservice-test - INFO - 执行测试: 03ae43cd
+2026-04-13 16:59:39,854 - smart-microservice-test - INFO - 执行测试: 1a431e18
+2026-04-13 16:59:39,854 - smart-microservice-test - INFO - 执行测试: a741a272
+2026-04-13 16:59:39,855 - smart-microservice-test - INFO - 执行测试: 50d5d1c7
+2026-04-13 16:59:39,951 - smart-microservice-test - INFO - 执行测试: 4bd02843
+2026-04-13 16:59:39,952 - smart-microservice-test - INFO - 执行测试: dd3475cc
+2026-04-13 16:59:39,952 - smart-microservice-test - INFO - 执行测试: 37c96deb
+2026-04-13 16:59:39,952 - smart-microservice-test - INFO - 执行测试: 9a61af9a
+2026-04-13 16:59:39,953 - smart-microservice-test - INFO - 执行测试: 06bba375
+2026-04-13 16:59:39,953 - smart-microservice-test - INFO - 执行测试: c4436d97
+2026-04-13 16:59:39,953 - smart-microservice-test - INFO - 执行测试: 398f1e1c
+2026-04-13 16:59:39,954 - smart-microservice-test - INFO - 执行测试: 0a1e26b3
+2026-04-13 16:59:39,954 - smart-microservice-test - INFO - 执行测试: c3132eb6
+2026-04-13 16:59:39,955 - smart-microservice-test - INFO - 执行测试: 406875a5
+2026-04-13 16:59:40,052 - smart-microservice-test - INFO - 执行测试: 6658bbf9
+2026-04-13 16:59:40,053 - smart-microservice-test - INFO - 执行测试: 393c26d8
+2026-04-13 16:59:40,054 - smart-microservice-test - INFO - 执行测试: 3f3b9a1c
+2026-04-13 16:59:40,054 - smart-microservice-test - INFO - 执行测试: 186a082f
+2026-04-13 16:59:40,054 - smart-microservice-test - INFO - 执行测试: 9f8157d9
+2026-04-13 16:59:40,055 - smart-microservice-test - INFO - 执行测试: 2268d986
+2026-04-13 16:59:40,055 - smart-microservice-test - INFO - 执行测试: d36949c9
+2026-04-13 16:59:40,056 - smart-microservice-test - INFO - 执行测试: c8893677
+2026-04-13 16:59:40,056 - smart-microservice-test - INFO - 执行测试: 59b15370
+2026-04-13 16:59:40,056 - smart-microservice-test - INFO - 执行测试: f481c110
+2026-04-13 16:59:40,153 - smart-microservice-test - INFO - 执行测试: 3a61033f
+2026-04-13 16:59:40,154 - smart-microservice-test - INFO - 执行测试: d7a8e497
+2026-04-13 16:59:40,155 - smart-microservice-test - INFO - 执行测试: 27eb323d
+2026-04-13 16:59:40,155 - smart-microservice-test - INFO - 执行测试: e7eab1f1
+2026-04-13 16:59:40,156 - smart-microservice-test - INFO - 执行测试: ca06b48b
+2026-04-13 16:59:40,156 - smart-microservice-test - INFO - 执行测试: a5a82681
+2026-04-13 16:59:40,156 - smart-microservice-test - INFO - 执行测试: 970ac86b
+2026-04-13 16:59:40,157 - smart-microservice-test - INFO - 执行测试: 77eb38b2
+2026-04-13 16:59:40,157 - smart-microservice-test - INFO - 执行测试: 9b44375b
+2026-04-13 16:59:40,158 - smart-microservice-test - INFO - 执行测试: 7ae488d3
+2026-04-13 16:59:40,255 - smart-microservice-test - INFO - 执行测试: 54ddec9f
+2026-04-13 16:59:40,256 - smart-microservice-test - INFO - 执行测试: 7da787c7
+2026-04-13 16:59:40,256 - smart-microservice-test - INFO - 执行测试: 8c6017eb
+2026-04-13 16:59:40,257 - smart-microservice-test - INFO - 执行测试: d7ec4c6a
+2026-04-13 16:59:40,257 - smart-microservice-test - INFO - 执行测试: e200cdbb
+2026-04-13 16:59:40,258 - smart-microservice-test - INFO - 执行测试: 86f43d50
+2026-04-13 16:59:40,258 - smart-microservice-test - INFO - 执行测试: 61270ab3
+2026-04-13 16:59:40,258 - smart-microservice-test - INFO - 执行测试: 91936b00
+2026-04-13 16:59:40,259 - smart-microservice-test - INFO - 执行测试: dc325884
+2026-04-13 16:59:40,259 - smart-microservice-test - INFO - 执行测试: fe4c9e0a
+2026-04-13 16:59:40,356 - smart-microservice-test - INFO - 执行测试: 006c54c9
+2026-04-13 16:59:40,357 - smart-microservice-test - INFO - 执行测试: b1a2cfbd
+2026-04-13 16:59:40,358 - smart-microservice-test - INFO - 执行测试: 203dadf4
+2026-04-13 16:59:40,358 - smart-microservice-test - INFO - 执行测试: 5aea3715
+2026-04-13 16:59:40,359 - smart-microservice-test - INFO - 执行测试: 365d77ae
+2026-04-13 16:59:40,359 - smart-microservice-test - INFO - 执行测试: aba1a15d
+2026-04-13 16:59:40,360 - smart-microservice-test - INFO - 执行测试: 175b2753
+2026-04-13 16:59:40,360 - smart-microservice-test - INFO - 执行测试: 739d6cd0
+2026-04-13 16:59:40,361 - smart-microservice-test - INFO - 执行测试: 1f57f6a2
+2026-04-13 16:59:40,361 - smart-microservice-test - INFO - 执行测试: ee139d5b
+2026-04-13 16:59:40,458 - smart-microservice-test - INFO - 执行测试: 7159b03c
+2026-04-13 16:59:40,459 - smart-microservice-test - INFO - 执行测试: c273d8fb
+2026-04-13 16:59:40,459 - smart-microservice-test - INFO - 执行测试: 0fe49c6d
+2026-04-13 16:59:40,460 - smart-microservice-test - INFO - 执行测试: 509307a1
+2026-04-13 16:59:40,460 - smart-microservice-test - INFO - 执行测试: a38fcd58
+2026-04-13 16:59:40,461 - smart-microservice-test - INFO - 执行测试: cbd18a8f
+2026-04-13 16:59:40,461 - smart-microservice-test - INFO - 执行测试: 62c7d958
+2026-04-13 16:59:40,461 - smart-microservice-test - INFO - 执行测试: 027611fd
+2026-04-13 16:59:40,462 - smart-microservice-test - INFO - 执行测试: eb75b782
+2026-04-13 16:59:40,462 - smart-microservice-test - INFO - 执行测试: 8c0bbe62
+2026-04-13 16:59:40,560 - smart-microservice-test - INFO - 执行测试: d1d03959
+2026-04-13 16:59:40,560 - smart-microservice-test - INFO - 执行测试: 0e753433
+2026-04-13 16:59:40,561 - smart-microservice-test - INFO - 执行测试: 274785cd
+2026-04-13 16:59:40,561 - smart-microservice-test - INFO - 执行测试: b50afbdc
+2026-04-13 16:59:40,562 - smart-microservice-test - INFO - 执行测试: 74f8d0c1
+2026-04-13 16:59:40,562 - smart-microservice-test - INFO - 执行测试: a2ae24a4
+2026-04-13 16:59:40,563 - smart-microservice-test - INFO - 执行测试: c0b93d07
+2026-04-13 16:59:40,563 - smart-microservice-test - INFO - 执行测试: ac85c91a
+2026-04-13 16:59:40,563 - smart-microservice-test - INFO - 执行测试: 8cb92b75
+2026-04-13 16:59:40,564 - smart-microservice-test - INFO - 执行测试: 56251f8e
+2026-04-13 16:59:40,661 - smart-microservice-test - INFO - 执行测试: e1073c53
+2026-04-13 16:59:40,662 - smart-microservice-test - INFO - 执行测试: f9458764
+2026-04-13 16:59:40,663 - smart-microservice-test - INFO - 执行测试: 5201bcb1
+2026-04-13 16:59:40,663 - smart-microservice-test - INFO - 执行测试: cd5a4717
+2026-04-13 16:59:40,664 - smart-microservice-test - INFO - 执行测试: f27b6fa7
+2026-04-13 16:59:40,664 - smart-microservice-test - INFO - 执行测试: 64ba86b2
+2026-04-13 16:59:40,664 - smart-microservice-test - INFO - 执行测试: ea22ec86
+2026-04-13 16:59:40,665 - smart-microservice-test - INFO - 执行测试: c7b02edb
+2026-04-13 16:59:40,665 - smart-microservice-test - INFO - 执行测试: 4ea615f0
+2026-04-13 16:59:40,762 - smart-microservice-test - INFO - 测试套件执行完成
+2026-04-13 16:59:40,762 - smart-microservice-test - INFO - ✅ 测试执行完成！
+2026-04-13 16:59:40,763 - smart-microservice-test - INFO - 总计: 109
+2026-04-13 16:59:40,763 - smart-microservice-test - INFO - 通过: 0
+2026-04-13 16:59:40,763 - smart-microservice-test - INFO - 失败: 0
+2026-04-13 16:59:40,763 - smart-microservice-test - INFO - 错误: 109
+2026-04-13 16:59:40,763 - smart-microservice-test - INFO - 成功率: 0.00%
+2026-04-13 16:59:40,764 - smart-microservice-test - ERROR - 测试执行失败: Object of type ExecutionResult is not JSON serializable
+2026-04-13 17:00:15,599 - smart-microservice-test - INFO - 🚀 开始微服务智能测试套件执行...
+2026-04-13 17:00:15,599 - smart-microservice-test - INFO - 📁 从本地文件加载OpenAPI规范: api-docs.json
+2026-04-13 17:00:15,660 - smart-microservice-test - INFO - 成功加载 1 个API契约
+2026-04-13 17:00:15,661 - smart-microservice-test - INFO - 🎯 初始化测试生成引擎...
+2026-04-13 17:00:15,663 - smart-microservice-test - INFO - 📝 生成测试用例...
+2026-04-13 17:00:17,058 - smart-microservice-test - INFO - 为 vesp-gvs-vehicle相关接口 生成 115 个测试用例
+2026-04-13 17:00:17,058 - smart-microservice-test - INFO - ⚡ 初始化测试执行引擎...
+2026-04-13 17:00:17,076 - smart-microservice-test - INFO - 🏃 执行 115 个测试用例...
+2026-04-13 17:00:17,076 - smart-microservice-test - INFO - 开始执行测试套件，共 115 个测试用例
+2026-04-13 17:00:17,078 - smart-microservice-test - INFO - 执行测试: 0205fd62
+2026-04-13 17:00:17,079 - smart-microservice-test - INFO - 执行测试: 19c86363
+2026-04-13 17:00:17,079 - smart-microservice-test - INFO - 执行测试: 6715813c
+2026-04-13 17:00:17,079 - smart-microservice-test - INFO - 执行测试: cd76cf6d
+2026-04-13 17:00:17,080 - smart-microservice-test - INFO - 执行测试: 5b76ac2a
+2026-04-13 17:00:17,081 - smart-microservice-test - INFO - 执行测试: 1043accd
+2026-04-13 17:00:17,082 - smart-microservice-test - INFO - 执行测试: d3e8f443
+2026-04-13 17:00:17,083 - smart-microservice-test - INFO - 执行测试: deb512c8
+2026-04-13 17:00:17,084 - smart-microservice-test - INFO - 执行测试: eb49433f
+2026-04-13 17:00:17,085 - smart-microservice-test - INFO - 执行测试: ebd70f78
+2026-04-13 17:00:17,179 - smart-microservice-test - INFO - 执行测试: 2186ad18
+2026-04-13 17:00:17,180 - smart-microservice-test - INFO - 执行测试: b9ce97b6
+2026-04-13 17:00:17,180 - smart-microservice-test - INFO - 执行测试: b0229bfd
+2026-04-13 17:00:17,181 - smart-microservice-test - INFO - 执行测试: 24ff8cb5
+2026-04-13 17:00:17,181 - smart-microservice-test - INFO - 执行测试: 460fc93d
+2026-04-13 17:00:17,181 - smart-microservice-test - INFO - 执行测试: 0e201490
+2026-04-13 17:00:17,182 - smart-microservice-test - INFO - 执行测试: f011a002
+2026-04-13 17:00:17,182 - smart-microservice-test - INFO - 执行测试: afaff24e
+2026-04-13 17:00:17,182 - smart-microservice-test - INFO - 执行测试: 0b830494
+2026-04-13 17:00:17,184 - smart-microservice-test - INFO - 执行测试: 1c4ad9a9
+2026-04-13 17:00:17,280 - smart-microservice-test - INFO - 执行测试: 97a28938
+2026-04-13 17:00:17,281 - smart-microservice-test - INFO - 执行测试: 40ea7bbf
+2026-04-13 17:00:17,282 - smart-microservice-test - INFO - 执行测试: 21f4f234
+2026-04-13 17:00:17,282 - smart-microservice-test - INFO - 执行测试: 683fb5cf
+2026-04-13 17:00:17,283 - smart-microservice-test - INFO - 执行测试: 147eba98
+2026-04-13 17:00:17,283 - smart-microservice-test - INFO - 执行测试: dd27e3a8
+2026-04-13 17:00:17,284 - smart-microservice-test - INFO - 执行测试: 03ae43cd
+2026-04-13 17:00:17,284 - smart-microservice-test - INFO - 执行测试: 1a431e18
+2026-04-13 17:00:17,284 - smart-microservice-test - INFO - 执行测试: a741a272
+2026-04-13 17:00:17,285 - smart-microservice-test - INFO - 执行测试: 50d5d1c7
+2026-04-13 17:00:17,382 - smart-microservice-test - INFO - 执行测试: 4bd02843
+2026-04-13 17:00:17,382 - smart-microservice-test - INFO - 执行测试: dd3475cc
+2026-04-13 17:00:17,383 - smart-microservice-test - INFO - 执行测试: 37c96deb
+2026-04-13 17:00:17,384 - smart-microservice-test - INFO - 执行测试: 9a61af9a
+2026-04-13 17:00:17,385 - smart-microservice-test - INFO - 执行测试: 06bba375
+2026-04-13 17:00:17,385 - smart-microservice-test - INFO - 执行测试: c4436d97
+2026-04-13 17:00:17,385 - smart-microservice-test - INFO - 执行测试: 398f1e1c
+2026-04-13 17:00:17,386 - smart-microservice-test - INFO - 执行测试: 0a1e26b3
+2026-04-13 17:00:17,387 - smart-microservice-test - INFO - 执行测试: c3132eb6
+2026-04-13 17:00:17,388 - smart-microservice-test - INFO - 执行测试: 406875a5
+2026-04-13 17:00:17,483 - smart-microservice-test - INFO - 执行测试: 6658bbf9
+2026-04-13 17:00:17,483 - smart-microservice-test - INFO - 执行测试: 393c26d8
+2026-04-13 17:00:17,484 - smart-microservice-test - INFO - 执行测试: 3f3b9a1c
+2026-04-13 17:00:17,484 - smart-microservice-test - INFO - 执行测试: 186a082f
+2026-04-13 17:00:17,485 - smart-microservice-test - INFO - 执行测试: 9f8157d9
+2026-04-13 17:00:17,485 - smart-microservice-test - INFO - 执行测试: 2268d986
+2026-04-13 17:00:17,486 - smart-microservice-test - INFO - 执行测试: d36949c9
+2026-04-13 17:00:17,486 - smart-microservice-test - INFO - 执行测试: c8893677
+2026-04-13 17:00:17,487 - smart-microservice-test - INFO - 执行测试: 59b15370
+2026-04-13 17:00:17,487 - smart-microservice-test - INFO - 执行测试: f481c110
+2026-04-13 17:00:17,584 - smart-microservice-test - INFO - 执行测试: 3a61033f
+2026-04-13 17:00:17,584 - smart-microservice-test - INFO - 执行测试: d7a8e497
+2026-04-13 17:00:17,585 - smart-microservice-test - INFO - 执行测试: 27eb323d
+2026-04-13 17:00:17,585 - smart-microservice-test - INFO - 执行测试: e7eab1f1
+2026-04-13 17:00:17,586 - smart-microservice-test - INFO - 执行测试: ca06b48b
+2026-04-13 17:00:17,586 - smart-microservice-test - INFO - 执行测试: a5a82681
+2026-04-13 17:00:17,586 - smart-microservice-test - INFO - 执行测试: 970ac86b
+2026-04-13 17:00:17,587 - smart-microservice-test - INFO - 执行测试: 77eb38b2
+2026-04-13 17:00:17,588 - smart-microservice-test - INFO - 执行测试: 9b44375b
+2026-04-13 17:00:17,589 - smart-microservice-test - INFO - 执行测试: 7ae488d3
+2026-04-13 17:00:17,684 - smart-microservice-test - INFO - 执行测试: 54ddec9f
+2026-04-13 17:00:17,685 - smart-microservice-test - INFO - 执行测试: 7da787c7
+2026-04-13 17:00:17,686 - smart-microservice-test - INFO - 执行测试: 8c6017eb
+2026-04-13 17:00:17,686 - smart-microservice-test - INFO - 执行测试: d7ec4c6a
+2026-04-13 17:00:17,687 - smart-microservice-test - INFO - 执行测试: e200cdbb
+2026-04-13 17:00:17,687 - smart-microservice-test - INFO - 执行测试: 86f43d50
+2026-04-13 17:00:17,688 - smart-microservice-test - INFO - 执行测试: 61270ab3
+2026-04-13 17:00:17,688 - smart-microservice-test - INFO - 执行测试: 91936b00
+2026-04-13 17:00:17,689 - smart-microservice-test - INFO - 执行测试: dc325884
+2026-04-13 17:00:17,689 - smart-microservice-test - INFO - 执行测试: fe4c9e0a
+2026-04-13 17:00:17,786 - smart-microservice-test - INFO - 执行测试: 006c54c9
+2026-04-13 17:00:17,787 - smart-microservice-test - INFO - 执行测试: b1a2cfbd
+2026-04-13 17:00:17,787 - smart-microservice-test - INFO - 执行测试: 203dadf4
+2026-04-13 17:00:17,788 - smart-microservice-test - INFO - 执行测试: 5aea3715
+2026-04-13 17:00:17,788 - smart-microservice-test - INFO - 执行测试: 365d77ae
+2026-04-13 17:00:17,789 - smart-microservice-test - INFO - 执行测试: aba1a15d
+2026-04-13 17:00:17,789 - smart-microservice-test - INFO - 执行测试: 175b2753
+2026-04-13 17:00:17,790 - smart-microservice-test - INFO - 执行测试: 739d6cd0
+2026-04-13 17:00:17,790 - smart-microservice-test - INFO - 执行测试: 1f57f6a2
+2026-04-13 17:00:17,791 - smart-microservice-test - INFO - 执行测试: ee139d5b
+2026-04-13 17:00:17,887 - smart-microservice-test - INFO - 执行测试: 7159b03c
+2026-04-13 17:00:17,888 - smart-microservice-test - INFO - 执行测试: c273d8fb
+2026-04-13 17:00:17,888 - smart-microservice-test - INFO - 执行测试: 0fe49c6d
+2026-04-13 17:00:17,889 - smart-microservice-test - INFO - 执行测试: 509307a1
+2026-04-13 17:00:17,889 - smart-microservice-test - INFO - 执行测试: a38fcd58
+2026-04-13 17:00:17,889 - smart-microservice-test - INFO - 执行测试: cbd18a8f
+2026-04-13 17:00:17,890 - smart-microservice-test - INFO - 执行测试: 62c7d958
+2026-04-13 17:00:17,890 - smart-microservice-test - INFO - 执行测试: 027611fd
+2026-04-13 17:00:17,890 - smart-microservice-test - INFO - 执行测试: eb75b782
+2026-04-13 17:00:17,891 - smart-microservice-test - INFO - 执行测试: 8c0bbe62
+2026-04-13 17:00:17,988 - smart-microservice-test - INFO - 执行测试: d1d03959
+2026-04-13 17:00:17,989 - smart-microservice-test - INFO - 执行测试: 0e753433
+2026-04-13 17:00:17,989 - smart-microservice-test - INFO - 执行测试: 274785cd
+2026-04-13 17:00:17,990 - smart-microservice-test - INFO - 执行测试: b50afbdc
+2026-04-13 17:00:17,990 - smart-microservice-test - INFO - 执行测试: 74f8d0c1
+2026-04-13 17:00:17,990 - smart-microservice-test - INFO - 执行测试: a2ae24a4
+2026-04-13 17:00:17,991 - smart-microservice-test - INFO - 执行测试: c0b93d07
+2026-04-13 17:00:17,991 - smart-microservice-test - INFO - 执行测试: ac85c91a
+2026-04-13 17:00:17,991 - smart-microservice-test - INFO - 执行测试: 8cb92b75
+2026-04-13 17:00:17,992 - smart-microservice-test - INFO - 执行测试: 56251f8e
+2026-04-13 17:00:18,089 - smart-microservice-test - INFO - 执行测试: e1073c53
+2026-04-13 17:00:18,090 - smart-microservice-test - INFO - 执行测试: f9458764
+2026-04-13 17:00:18,090 - smart-microservice-test - INFO - 执行测试: 5201bcb1
+2026-04-13 17:00:18,091 - smart-microservice-test - INFO - 执行测试: cd5a4717
+2026-04-13 17:00:18,091 - smart-microservice-test - INFO - 执行测试: f27b6fa7
+2026-04-13 17:00:18,092 - smart-microservice-test - INFO - 执行测试: 64ba86b2
+2026-04-13 17:00:18,092 - smart-microservice-test - INFO - 执行测试: ea22ec86
+2026-04-13 17:00:18,093 - smart-microservice-test - INFO - 执行测试: c7b02edb
+2026-04-13 17:00:18,093 - smart-microservice-test - INFO - 执行测试: 4ea615f0
+2026-04-13 17:00:18,190 - smart-microservice-test - INFO - 测试套件执行完成
+2026-04-13 17:00:18,191 - smart-microservice-test - INFO - ✅ 测试执行完成！
+2026-04-13 17:00:18,191 - smart-microservice-test - INFO - 总计: 109
+2026-04-13 17:00:18,191 - smart-microservice-test - INFO - 通过: 0
+2026-04-13 17:00:18,191 - smart-microservice-test - INFO - 失败: 0
+2026-04-13 17:00:18,191 - smart-microservice-test - INFO - 错误: 109
+2026-04-13 17:00:18,191 - smart-microservice-test - INFO - 成功率: 0.00%
+2026-04-13 17:00:18,194 - smart-microservice-test - ERROR - 测试执行失败: Object of type mappingproxy is not JSON serializable
+2026-04-13 17:00:53,100 - smart-microservice-test - INFO - 🚀 开始微服务智能测试套件执行...
+2026-04-13 17:00:53,101 - smart-microservice-test - INFO - 📁 从本地文件加载OpenAPI规范: api-docs.json
+2026-04-13 17:00:53,172 - smart-microservice-test - INFO - 成功加载 1 个API契约
+2026-04-13 17:00:53,172 - smart-microservice-test - INFO - 🎯 初始化测试生成引擎...
+2026-04-13 17:00:53,176 - smart-microservice-test - INFO - 📝 生成测试用例...
+2026-04-13 17:00:55,176 - smart-microservice-test - INFO - 为 vesp-gvs-vehicle相关接口 生成 115 个测试用例
+2026-04-13 17:00:55,176 - smart-microservice-test - INFO - ⚡ 初始化测试执行引擎...
+2026-04-13 17:00:55,194 - smart-microservice-test - INFO - 🏃 执行 115 个测试用例...
+2026-04-13 17:00:55,194 - smart-microservice-test - INFO - 开始执行测试套件，共 115 个测试用例
+2026-04-13 17:00:55,197 - smart-microservice-test - INFO - 执行测试: 0205fd62
+2026-04-13 17:00:55,198 - smart-microservice-test - INFO - 执行测试: 19c86363
+2026-04-13 17:00:55,199 - smart-microservice-test - INFO - 执行测试: 6715813c
+2026-04-13 17:00:55,200 - smart-microservice-test - INFO - 执行测试: cd76cf6d
+2026-04-13 17:00:55,201 - smart-microservice-test - INFO - 执行测试: 5b76ac2a
+2026-04-13 17:00:55,201 - smart-microservice-test - INFO - 执行测试: 1043accd
+2026-04-13 17:00:55,202 - smart-microservice-test - INFO - 执行测试: d3e8f443
+2026-04-13 17:00:55,203 - smart-microservice-test - INFO - 执行测试: deb512c8
+2026-04-13 17:00:55,203 - smart-microservice-test - INFO - 执行测试: eb49433f
+2026-04-13 17:00:55,204 - smart-microservice-test - INFO - 执行测试: ebd70f78
+2026-04-13 17:00:55,298 - smart-microservice-test - INFO - 执行测试: 2186ad18
+2026-04-13 17:00:55,299 - smart-microservice-test - INFO - 执行测试: b9ce97b6
+2026-04-13 17:00:55,300 - smart-microservice-test - INFO - 执行测试: b0229bfd
+2026-04-13 17:00:55,301 - smart-microservice-test - INFO - 执行测试: 24ff8cb5
+2026-04-13 17:00:55,302 - smart-microservice-test - INFO - 执行测试: 460fc93d
+2026-04-13 17:00:55,303 - smart-microservice-test - INFO - 执行测试: 0e201490
+2026-04-13 17:00:55,305 - smart-microservice-test - INFO - 执行测试: f011a002
+2026-04-13 17:00:55,308 - smart-microservice-test - INFO - 执行测试: afaff24e
+2026-04-13 17:00:55,309 - smart-microservice-test - INFO - 执行测试: 0b830494
+2026-04-13 17:00:55,312 - smart-microservice-test - INFO - 执行测试: 1c4ad9a9
+2026-04-13 17:00:55,399 - smart-microservice-test - INFO - 执行测试: 97a28938
+2026-04-13 17:00:55,400 - smart-microservice-test - INFO - 执行测试: 40ea7bbf
+2026-04-13 17:00:55,401 - smart-microservice-test - INFO - 执行测试: 21f4f234
+2026-04-13 17:00:55,401 - smart-microservice-test - INFO - 执行测试: 683fb5cf
+2026-04-13 17:00:55,402 - smart-microservice-test - INFO - 执行测试: 147eba98
+2026-04-13 17:00:55,402 - smart-microservice-test - INFO - 执行测试: dd27e3a8
+2026-04-13 17:00:55,403 - smart-microservice-test - INFO - 执行测试: 03ae43cd
+2026-04-13 17:00:55,404 - smart-microservice-test - INFO - 执行测试: 1a431e18
+2026-04-13 17:00:55,404 - smart-microservice-test - INFO - 执行测试: a741a272
+2026-04-13 17:00:55,406 - smart-microservice-test - INFO - 执行测试: 50d5d1c7
+2026-04-13 17:00:55,500 - smart-microservice-test - INFO - 执行测试: 4bd02843
+2026-04-13 17:00:55,501 - smart-microservice-test - INFO - 执行测试: dd3475cc
+2026-04-13 17:00:55,501 - smart-microservice-test - INFO - 执行测试: 37c96deb
+2026-04-13 17:00:55,502 - smart-microservice-test - INFO - 执行测试: 9a61af9a
+2026-04-13 17:00:55,502 - smart-microservice-test - INFO - 执行测试: 06bba375
+2026-04-13 17:00:55,503 - smart-microservice-test - INFO - 执行测试: c4436d97
+2026-04-13 17:00:55,504 - smart-microservice-test - INFO - 执行测试: 398f1e1c
+2026-04-13 17:00:55,504 - smart-microservice-test - INFO - 执行测试: 0a1e26b3
+2026-04-13 17:00:55,505 - smart-microservice-test - INFO - 执行测试: c3132eb6
+2026-04-13 17:00:55,506 - smart-microservice-test - INFO - 执行测试: 406875a5
+2026-04-13 17:00:55,600 - smart-microservice-test - INFO - 执行测试: 6658bbf9
+2026-04-13 17:00:55,601 - smart-microservice-test - INFO - 执行测试: 393c26d8
+2026-04-13 17:00:55,602 - smart-microservice-test - INFO - 执行测试: 3f3b9a1c
+2026-04-13 17:00:55,602 - smart-microservice-test - INFO - 执行测试: 186a082f
+2026-04-13 17:00:55,603 - smart-microservice-test - INFO - 执行测试: 9f8157d9
+2026-04-13 17:00:55,604 - smart-microservice-test - INFO - 执行测试: 2268d986
+2026-04-13 17:00:55,604 - smart-microservice-test - INFO - 执行测试: d36949c9
+2026-04-13 17:00:55,604 - smart-microservice-test - INFO - 执行测试: c8893677
+2026-04-13 17:00:55,605 - smart-microservice-test - INFO - 执行测试: 59b15370
+2026-04-13 17:00:55,606 - smart-microservice-test - INFO - 执行测试: f481c110
+2026-04-13 17:00:55,701 - smart-microservice-test - INFO - 执行测试: 3a61033f
+2026-04-13 17:00:55,703 - smart-microservice-test - INFO - 执行测试: d7a8e497
+2026-04-13 17:00:55,704 - smart-microservice-test - INFO - 执行测试: 27eb323d
+2026-04-13 17:00:55,705 - smart-microservice-test - INFO - 执行测试: e7eab1f1
+2026-04-13 17:00:55,706 - smart-microservice-test - INFO - 执行测试: ca06b48b
+2026-04-13 17:00:55,706 - smart-microservice-test - INFO - 执行测试: a5a82681
+2026-04-13 17:00:55,707 - smart-microservice-test - INFO - 执行测试: 970ac86b
+2026-04-13 17:00:55,708 - smart-microservice-test - INFO - 执行测试: 77eb38b2
+2026-04-13 17:00:55,709 - smart-microservice-test - INFO - 执行测试: 9b44375b
+2026-04-13 17:00:55,709 - smart-microservice-test - INFO - 执行测试: 7ae488d3
+2026-04-13 17:00:55,802 - smart-microservice-test - INFO - 执行测试: 54ddec9f
+2026-04-13 17:00:55,803 - smart-microservice-test - INFO - 执行测试: 7da787c7
+2026-04-13 17:00:55,804 - smart-microservice-test - INFO - 执行测试: 8c6017eb
+2026-04-13 17:00:55,805 - smart-microservice-test - INFO - 执行测试: d7ec4c6a
+2026-04-13 17:00:55,805 - smart-microservice-test - INFO - 执行测试: e200cdbb
+2026-04-13 17:00:55,806 - smart-microservice-test - INFO - 执行测试: 86f43d50
+2026-04-13 17:00:55,806 - smart-microservice-test - INFO - 执行测试: 61270ab3
+2026-04-13 17:00:55,807 - smart-microservice-test - INFO - 执行测试: 91936b00
+2026-04-13 17:00:55,809 - smart-microservice-test - INFO - 执行测试: dc325884
+2026-04-13 17:00:55,810 - smart-microservice-test - INFO - 执行测试: fe4c9e0a
+2026-04-13 17:00:55,904 - smart-microservice-test - INFO - 执行测试: 006c54c9
+2026-04-13 17:00:55,905 - smart-microservice-test - INFO - 执行测试: b1a2cfbd
+2026-04-13 17:00:55,907 - smart-microservice-test - INFO - 执行测试: 203dadf4
+2026-04-13 17:00:55,907 - smart-microservice-test - INFO - 执行测试: 5aea3715
+2026-04-13 17:00:55,908 - smart-microservice-test - INFO - 执行测试: 365d77ae
+2026-04-13 17:00:55,909 - smart-microservice-test - INFO - 执行测试: aba1a15d
+2026-04-13 17:00:55,909 - smart-microservice-test - INFO - 执行测试: 175b2753
+2026-04-13 17:00:55,910 - smart-microservice-test - INFO - 执行测试: 739d6cd0
+2026-04-13 17:00:55,911 - smart-microservice-test - INFO - 执行测试: 1f57f6a2
+2026-04-13 17:00:55,912 - smart-microservice-test - INFO - 执行测试: ee139d5b
+2026-04-13 17:00:56,005 - smart-microservice-test - INFO - 执行测试: 7159b03c
+2026-04-13 17:00:56,006 - smart-microservice-test - INFO - 执行测试: c273d8fb
+2026-04-13 17:00:56,007 - smart-microservice-test - INFO - 执行测试: 0fe49c6d
+2026-04-13 17:00:56,007 - smart-microservice-test - INFO - 执行测试: 509307a1
+2026-04-13 17:00:56,008 - smart-microservice-test - INFO - 执行测试: a38fcd58
+2026-04-13 17:00:56,008 - smart-microservice-test - INFO - 执行测试: cbd18a8f
+2026-04-13 17:00:56,009 - smart-microservice-test - INFO - 执行测试: 62c7d958
+2026-04-13 17:00:56,009 - smart-microservice-test - INFO - 执行测试: 027611fd
+2026-04-13 17:00:56,010 - smart-microservice-test - INFO - 执行测试: eb75b782
+2026-04-13 17:00:56,010 - smart-microservice-test - INFO - 执行测试: 8c0bbe62
+2026-04-13 17:00:56,106 - smart-microservice-test - INFO - 执行测试: d1d03959
+2026-04-13 17:00:56,106 - smart-microservice-test - INFO - 执行测试: 0e753433
+2026-04-13 17:00:56,107 - smart-microservice-test - INFO - 执行测试: 274785cd
+2026-04-13 17:00:56,107 - smart-microservice-test - INFO - 执行测试: b50afbdc
+2026-04-13 17:00:56,108 - smart-microservice-test - INFO - 执行测试: 74f8d0c1
+2026-04-13 17:00:56,109 - smart-microservice-test - INFO - 执行测试: a2ae24a4
+2026-04-13 17:00:56,110 - smart-microservice-test - INFO - 执行测试: c0b93d07
+2026-04-13 17:00:56,110 - smart-microservice-test - INFO - 执行测试: ac85c91a
+2026-04-13 17:00:56,111 - smart-microservice-test - INFO - 执行测试: 8cb92b75
+2026-04-13 17:00:56,112 - smart-microservice-test - INFO - 执行测试: 56251f8e
+2026-04-13 17:00:56,207 - smart-microservice-test - INFO - 执行测试: e1073c53
+2026-04-13 17:00:56,207 - smart-microservice-test - INFO - 执行测试: f9458764
+2026-04-13 17:00:56,208 - smart-microservice-test - INFO - 执行测试: 5201bcb1
+2026-04-13 17:00:56,209 - smart-microservice-test - INFO - 执行测试: cd5a4717
+2026-04-13 17:00:56,209 - smart-microservice-test - INFO - 执行测试: f27b6fa7
+2026-04-13 17:00:56,209 - smart-microservice-test - INFO - 执行测试: 64ba86b2
+2026-04-13 17:00:56,210 - smart-microservice-test - INFO - 执行测试: ea22ec86
+2026-04-13 17:00:56,210 - smart-microservice-test - INFO - 执行测试: c7b02edb
+2026-04-13 17:00:56,210 - smart-microservice-test - INFO - 执行测试: 4ea615f0
+2026-04-13 17:00:56,309 - smart-microservice-test - INFO - 测试套件执行完成
+2026-04-13 17:00:56,309 - smart-microservice-test - INFO - ✅ 测试执行完成！
+2026-04-13 17:00:56,310 - smart-microservice-test - INFO - 总计: 109
+2026-04-13 17:00:56,310 - smart-microservice-test - INFO - 通过: 0
+2026-04-13 17:00:56,310 - smart-microservice-test - INFO - 失败: 0
+2026-04-13 17:00:56,310 - smart-microservice-test - INFO - 错误: 109
+2026-04-13 17:00:56,311 - smart-microservice-test - INFO - 成功率: 0.00%
+2026-04-13 17:00:56,327 - smart-microservice-test - ERROR - 测试执行失败: maximum recursion depth exceeded while calling a Python object
+2026-04-13 17:01:27,551 - smart-microservice-test - INFO - 🚀 开始微服务智能测试套件执行...
+2026-04-13 17:01:27,551 - smart-microservice-test - INFO - 📁 从本地文件加载OpenAPI规范: api-docs.json
+2026-04-13 17:01:27,592 - smart-microservice-test - INFO - 成功加载 1 个API契约
+2026-04-13 17:01:27,593 - smart-microservice-test - INFO - 🎯 初始化测试生成引擎...
+2026-04-13 17:01:27,595 - smart-microservice-test - INFO - 📝 生成测试用例...
+2026-04-13 17:01:28,677 - smart-microservice-test - INFO - 为 vesp-gvs-vehicle相关接口 生成 115 个测试用例
+2026-04-13 17:01:28,677 - smart-microservice-test - INFO - ⚡ 初始化测试执行引擎...
+2026-04-13 17:01:28,687 - smart-microservice-test - INFO - 🏃 执行 115 个测试用例...
+2026-04-13 17:01:28,687 - smart-microservice-test - INFO - 开始执行测试套件，共 115 个测试用例
+2026-04-13 17:01:28,691 - smart-microservice-test - INFO - 执行测试: 0205fd62
+2026-04-13 17:01:28,691 - smart-microservice-test - INFO - 执行测试: 19c86363
+2026-04-13 17:01:28,692 - smart-microservice-test - INFO - 执行测试: 6715813c
+2026-04-13 17:01:28,693 - smart-microservice-test - INFO - 执行测试: cd76cf6d
+2026-04-13 17:01:28,694 - smart-microservice-test - INFO - 执行测试: 5b76ac2a
+2026-04-13 17:01:28,694 - smart-microservice-test - INFO - 执行测试: 1043accd
+2026-04-13 17:01:28,694 - smart-microservice-test - INFO - 执行测试: d3e8f443
+2026-04-13 17:01:28,695 - smart-microservice-test - INFO - 执行测试: deb512c8
+2026-04-13 17:01:28,695 - smart-microservice-test - INFO - 执行测试: eb49433f
+2026-04-13 17:01:28,695 - smart-microservice-test - INFO - 执行测试: ebd70f78
+2026-04-13 17:01:28,792 - smart-microservice-test - INFO - 执行测试: 2186ad18
+2026-04-13 17:01:28,793 - smart-microservice-test - INFO - 执行测试: b9ce97b6
+2026-04-13 17:01:28,793 - smart-microservice-test - INFO - 执行测试: b0229bfd
+2026-04-13 17:01:28,794 - smart-microservice-test - INFO - 执行测试: 24ff8cb5
+2026-04-13 17:01:28,794 - smart-microservice-test - INFO - 执行测试: 460fc93d
+2026-04-13 17:01:28,794 - smart-microservice-test - INFO - 执行测试: 0e201490
+2026-04-13 17:01:28,795 - smart-microservice-test - INFO - 执行测试: f011a002
+2026-04-13 17:01:28,795 - smart-microservice-test - INFO - 执行测试: afaff24e
+2026-04-13 17:01:28,795 - smart-microservice-test - INFO - 执行测试: 0b830494
+2026-04-13 17:01:28,796 - smart-microservice-test - INFO - 执行测试: 1c4ad9a9
+2026-04-13 17:01:28,893 - smart-microservice-test - INFO - 执行测试: 97a28938
+2026-04-13 17:01:28,894 - smart-microservice-test - INFO - 执行测试: 40ea7bbf
+2026-04-13 17:01:28,894 - smart-microservice-test - INFO - 执行测试: 21f4f234
+2026-04-13 17:01:28,894 - smart-microservice-test - INFO - 执行测试: 683fb5cf
+2026-04-13 17:01:28,895 - smart-microservice-test - INFO - 执行测试: 147eba98
+2026-04-13 17:01:28,895 - smart-microservice-test - INFO - 执行测试: dd27e3a8
+2026-04-13 17:01:28,895 - smart-microservice-test - INFO - 执行测试: 03ae43cd
+2026-04-13 17:01:28,896 - smart-microservice-test - INFO - 执行测试: 1a431e18
+2026-04-13 17:01:28,896 - smart-microservice-test - INFO - 执行测试: a741a272
+2026-04-13 17:01:28,896 - smart-microservice-test - INFO - 执行测试: 50d5d1c7
+2026-04-13 17:01:28,994 - smart-microservice-test - INFO - 执行测试: 4bd02843
+2026-04-13 17:01:28,994 - smart-microservice-test - INFO - 执行测试: dd3475cc
+2026-04-13 17:01:28,994 - smart-microservice-test - INFO - 执行测试: 37c96deb
+2026-04-13 17:01:28,995 - smart-microservice-test - INFO - 执行测试: 9a61af9a
+2026-04-13 17:01:28,995 - smart-microservice-test - INFO - 执行测试: 06bba375
+2026-04-13 17:01:28,995 - smart-microservice-test - INFO - 执行测试: c4436d97
+2026-04-13 17:01:28,995 - smart-microservice-test - INFO - 执行测试: 398f1e1c
+2026-04-13 17:01:28,996 - smart-microservice-test - INFO - 执行测试: 0a1e26b3
+2026-04-13 17:01:28,996 - smart-microservice-test - INFO - 执行测试: c3132eb6
+2026-04-13 17:01:28,996 - smart-microservice-test - INFO - 执行测试: 406875a5
+2026-04-13 17:01:29,095 - smart-microservice-test - INFO - 执行测试: 6658bbf9
+2026-04-13 17:01:29,096 - smart-microservice-test - INFO - 执行测试: 393c26d8
+2026-04-13 17:01:29,097 - smart-microservice-test - INFO - 执行测试: 3f3b9a1c
+2026-04-13 17:01:29,097 - smart-microservice-test - INFO - 执行测试: 186a082f
+2026-04-13 17:01:29,098 - smart-microservice-test - INFO - 执行测试: 9f8157d9
+2026-04-13 17:01:29,098 - smart-microservice-test - INFO - 执行测试: 2268d986
+2026-04-13 17:01:29,098 - smart-microservice-test - INFO - 执行测试: d36949c9
+2026-04-13 17:01:29,099 - smart-microservice-test - INFO - 执行测试: c8893677
+2026-04-13 17:01:29,099 - smart-microservice-test - INFO - 执行测试: 59b15370
+2026-04-13 17:01:29,100 - smart-microservice-test - INFO - 执行测试: f481c110
+2026-04-13 17:01:29,197 - smart-microservice-test - INFO - 执行测试: 3a61033f
+2026-04-13 17:01:29,198 - smart-microservice-test - INFO - 执行测试: d7a8e497
+2026-04-13 17:01:29,198 - smart-microservice-test - INFO - 执行测试: 27eb323d
+2026-04-13 17:01:29,199 - smart-microservice-test - INFO - 执行测试: e7eab1f1
+2026-04-13 17:01:29,199 - smart-microservice-test - INFO - 执行测试: ca06b48b
+2026-04-13 17:01:29,199 - smart-microservice-test - INFO - 执行测试: a5a82681
+2026-04-13 17:01:29,200 - smart-microservice-test - INFO - 执行测试: 970ac86b
+2026-04-13 17:01:29,200 - smart-microservice-test - INFO - 执行测试: 77eb38b2
+2026-04-13 17:01:29,201 - smart-microservice-test - INFO - 执行测试: 9b44375b
+2026-04-13 17:01:29,201 - smart-microservice-test - INFO - 执行测试: 7ae488d3
+2026-04-13 17:01:29,298 - smart-microservice-test - INFO - 执行测试: 54ddec9f
+2026-04-13 17:01:29,299 - smart-microservice-test - INFO - 执行测试: 7da787c7
+2026-04-13 17:01:29,299 - smart-microservice-test - INFO - 执行测试: 8c6017eb
+2026-04-13 17:01:29,299 - smart-microservice-test - INFO - 执行测试: d7ec4c6a
+2026-04-13 17:01:29,300 - smart-microservice-test - INFO - 执行测试: e200cdbb
+2026-04-13 17:01:29,300 - smart-microservice-test - INFO - 执行测试: 86f43d50
+2026-04-13 17:01:29,300 - smart-microservice-test - INFO - 执行测试: 61270ab3
+2026-04-13 17:01:29,301 - smart-microservice-test - INFO - 执行测试: 91936b00
+2026-04-13 17:01:29,301 - smart-microservice-test - INFO - 执行测试: dc325884
+2026-04-13 17:01:29,302 - smart-microservice-test - INFO - 执行测试: fe4c9e0a
+2026-04-13 17:01:29,400 - smart-microservice-test - INFO - 执行测试: 006c54c9
+2026-04-13 17:01:29,401 - smart-microservice-test - INFO - 执行测试: b1a2cfbd
+2026-04-13 17:01:29,401 - smart-microservice-test - INFO - 执行测试: 203dadf4
+2026-04-13 17:01:29,402 - smart-microservice-test - INFO - 执行测试: 5aea3715
+2026-04-13 17:01:29,402 - smart-microservice-test - INFO - 执行测试: 365d77ae
+2026-04-13 17:01:29,403 - smart-microservice-test - INFO - 执行测试: aba1a15d
+2026-04-13 17:01:29,403 - smart-microservice-test - INFO - 执行测试: 175b2753
+2026-04-13 17:01:29,403 - smart-microservice-test - INFO - 执行测试: 739d6cd0
+2026-04-13 17:01:29,404 - smart-microservice-test - INFO - 执行测试: 1f57f6a2
+2026-04-13 17:01:29,404 - smart-microservice-test - INFO - 执行测试: ee139d5b
+2026-04-13 17:01:29,500 - smart-microservice-test - INFO - 执行测试: 7159b03c
+2026-04-13 17:01:29,501 - smart-microservice-test - INFO - 执行测试: c273d8fb
+2026-04-13 17:01:29,501 - smart-microservice-test - INFO - 执行测试: 0fe49c6d
+2026-04-13 17:01:29,502 - smart-microservice-test - INFO - 执行测试: 509307a1
+2026-04-13 17:01:29,502 - smart-microservice-test - INFO - 执行测试: a38fcd58
+2026-04-13 17:01:29,502 - smart-microservice-test - INFO - 执行测试: cbd18a8f
+2026-04-13 17:01:29,503 - smart-microservice-test - INFO - 执行测试: 62c7d958
+2026-04-13 17:01:29,503 - smart-microservice-test - INFO - 执行测试: 027611fd
+2026-04-13 17:01:29,503 - smart-microservice-test - INFO - 执行测试: eb75b782
+2026-04-13 17:01:29,504 - smart-microservice-test - INFO - 执行测试: 8c0bbe62
+2026-04-13 17:01:29,601 - smart-microservice-test - INFO - 执行测试: d1d03959
+2026-04-13 17:01:29,602 - smart-microservice-test - INFO - 执行测试: 0e753433
+2026-04-13 17:01:29,603 - smart-microservice-test - INFO - 执行测试: 274785cd
+2026-04-13 17:01:29,603 - smart-microservice-test - INFO - 执行测试: b50afbdc
+2026-04-13 17:01:29,603 - smart-microservice-test - INFO - 执行测试: 74f8d0c1
+2026-04-13 17:01:29,604 - smart-microservice-test - INFO - 执行测试: a2ae24a4
+2026-04-13 17:01:29,604 - smart-microservice-test - INFO - 执行测试: c0b93d07
+2026-04-13 17:01:29,604 - smart-microservice-test - INFO - 执行测试: ac85c91a
+2026-04-13 17:01:29,605 - smart-microservice-test - INFO - 执行测试: 8cb92b75
+2026-04-13 17:01:29,605 - smart-microservice-test - INFO - 执行测试: 56251f8e
+2026-04-13 17:01:29,702 - smart-microservice-test - INFO - 执行测试: e1073c53
+2026-04-13 17:01:29,703 - smart-microservice-test - INFO - 执行测试: f9458764
+2026-04-13 17:01:29,703 - smart-microservice-test - INFO - 执行测试: 5201bcb1
+2026-04-13 17:01:29,704 - smart-microservice-test - INFO - 执行测试: cd5a4717
+2026-04-13 17:01:29,704 - smart-microservice-test - INFO - 执行测试: f27b6fa7
+2026-04-13 17:01:29,704 - smart-microservice-test - INFO - 执行测试: 64ba86b2
+2026-04-13 17:01:29,705 - smart-microservice-test - INFO - 执行测试: ea22ec86
+2026-04-13 17:01:29,705 - smart-microservice-test - INFO - 执行测试: c7b02edb
+2026-04-13 17:01:29,706 - smart-microservice-test - INFO - 执行测试: 4ea615f0
+2026-04-13 17:01:29,803 - smart-microservice-test - INFO - 测试套件执行完成
+2026-04-13 17:01:29,803 - smart-microservice-test - INFO - ✅ 测试执行完成！
+2026-04-13 17:01:29,803 - smart-microservice-test - INFO - 总计: 109
+2026-04-13 17:01:29,803 - smart-microservice-test - INFO - 通过: 0
+2026-04-13 17:01:29,803 - smart-microservice-test - INFO - 失败: 0
+2026-04-13 17:01:29,803 - smart-microservice-test - INFO - 错误: 109
+2026-04-13 17:01:29,803 - smart-microservice-test - INFO - 成功率: 0.00%
+2026-04-13 17:01:29,812 - smart-microservice-test - INFO - 测试结果已保存到: results/test_report_20260413_170129.json
+2026-04-13 17:01:29,812 - smart-microservice-test - INFO - 测试执行引擎停止
+2026-04-13 17:01:29,812 - smart-microservice-test - INFO - 🎉 测试套件执行完成！
+2026-04-13 17:01:29,813 - smart-microservice-test - INFO - 测试完成！

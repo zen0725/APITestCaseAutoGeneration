@@ -1,0 +1,12 @@
+{
+  "timestamp": "20260413_170018",
+  "results": {
+    "batch_id": "batch_20260413_170017",
+    "start_time": "2026-04-13T17:00:17.078078",
+    "test_results": {
+      "eb49433f": {
+        "test_id": "eb49433f",
+        "status": {
+          "_value_": "error",
+          "_name_": "ERROR",
+          "__objclass__": 

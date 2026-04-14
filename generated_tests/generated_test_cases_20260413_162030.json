@@ -1,0 +1,1154 @@
+{
+  "vesp-gvs-vehicle": [
+    {
+      "test_id": "0205fd62",
+      "name": "positive_0205fd62",
+      "endpoint": "GET /api/v1/admin/{modelId}/images/{type}/extend",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "19c86363",
+      "name": "positive_19c86363",
+      "endpoint": "GET /api/v1/manifests",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "19c86363",
+      "name": "positive_19c86363",
+      "endpoint": "POST /api/v1/manifests",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "6715813c",
+      "name": "positive_6715813c",
+      "endpoint": "GET /api/v1/manifests/{id}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "6715813c",
+      "name": "positive_6715813c",
+      "endpoint": "PUT /api/v1/manifests/{id}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "cd76cf6d",
+      "name": "positive_cd76cf6d",
+      "endpoint": "PUT /api/v1/manifests/{id}/action/restore",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "5b76ac2a",
+      "name": "positive_5b76ac2a",
+      "endpoint": "POST /api/v1/manifests/{vin}/latest",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "1043accd",
+      "name": "positive_1043accd",
+      "endpoint": "GET /api/v1/vehicles/{vin}/images/{type}/extend",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "d3e8f443",
+      "name": "positive_d3e8f443",
+      "endpoint": "GET /api/v2/admin/brand/models/codes",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "deb512c8",
+      "name": "positive_deb512c8",
+      "endpoint": "GET /api/v2/admin/brand/year/modelInfo",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "eb49433f",
+      "name": "positive_eb49433f",
+      "endpoint": "GET /api/v2/admin/brand/years",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "ebd70f78",
+      "name": "positive_ebd70f78",
+      "endpoint": "GET /api/v2/admin/models/{modelId}/colors",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "2186ad18",
+      "name": "positive_2186ad18",
+      "endpoint": "GET /api/v2/admin/vehicles/summarise",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "b9ce97b6",
+      "name": "positive_b9ce97b6",
+      "endpoint": "GET /api/v2/after-vicp-device/vehicles/{vin}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "b0229bfd",
+      "name": "positive_b0229bfd",
+      "endpoint": "GET /api/v2/brand/{brandCode}/platforms",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "24ff8cb5",
+      "name": "positive_24ff8cb5",
+      "endpoint": "GET /api/v2/brand/{brandId}/series",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "460fc93d",
+      "name": "positive_460fc93d",
+      "endpoint": "GET /api/v2/brands/{brandCode}/vehicles/sims/{iccid}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "0e201490",
+      "name": "positive_0e201490",
+      "endpoint": "GET /api/v2/brands/{brand}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "f011a002",
+      "name": "positive_f011a002",
+      "endpoint": "GET /api/v2/cache/{key}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "afaff24e",
+      "name": "positive_afaff24e",
+      "endpoint": "GET /api/v2/capabilities",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "0b830494",
+      "name": "positive_0b830494",
+      "endpoint": "GET /api/v2/capabilities/{id}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "0b830494",
+      "name": "positive_0b830494",
+      "endpoint": "DELETE /api/v2/capabilities/{id}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "1c4ad9a9",
+      "name": "positive_1c4ad9a9",
+      "endpoint": "GET /api/v2/capability-categories",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "97a28938",
+      "name": "positive_97a28938",
+      "endpoint": "GET /api/v2/capability-categories/{id}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "40ea7bbf",
+      "name": "positive_40ea7bbf",
+      "endpoint": "GET /api/v2/capability-operations",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "21f4f234",
+      "name": "positive_21f4f234",
+      "endpoint": "GET /api/v2/devices",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "683fb5cf",
+      "name": "positive_683fb5cf",
+      "endpoint": "GET /api/v2/devices/{id}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "683fb5cf",
+      "name": "positive_683fb5cf",
+      "endpoint": "DELETE /api/v2/devices/{id}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "147eba98",
+      "name": "positive_147eba98",
+      "endpoint": "GET /api/v2/function-on-demand",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "dd27e3a8",
+      "name": "positive_dd27e3a8",
+      "endpoint": "DELETE /api/v2/function-on-demand/{id}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "03ae43cd",
+      "name": "positive_03ae43cd",
+      "endpoint": "GET /api/v2/hu/history",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "1a431e18",
+      "name": "positive_1a431e18",
+      "endpoint": "GET /api/v2/hu/history/docs",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "a741a272",
+      "name": "positive_a741a272",
+      "endpoint": "GET /api/v2/model-metadata",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "50d5d1c7",
+      "name": "positive_50d5d1c7",
+      "endpoint": "GET /api/v2/model/dynamic-package",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "4bd02843",
+      "name": "positive_4bd02843",
+      "endpoint": "POST /api/v2/model/dynamic-package/hold",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "dd3475cc",
+      "name": "positive_dd3475cc",
+      "endpoint": "POST /api/v2/model/dynamic-package/reset",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "37c96deb",
+      "name": "positive_37c96deb",
+      "endpoint": "GET /api/v2/model/lineNo/{brand}/{lineNo}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "9a61af9a",
+      "name": "positive_9a61af9a",
+      "endpoint": "GET /api/v2/models",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "06bba375",
+      "name": "positive_06bba375",
+      "endpoint": "GET /api/v2/models/brand/{brand}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "c4436d97",
+      "name": "positive_c4436d97",
+      "endpoint": "GET /api/v2/models/colors/image-unmaintained",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "398f1e1c",
+      "name": "positive_398f1e1c",
+      "endpoint": "GET /api/v2/models/types",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "0a1e26b3",
+      "name": "positive_0a1e26b3",
+      "endpoint": "GET /api/v2/models/{id}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "c3132eb6",
+      "name": "positive_c3132eb6",
+      "endpoint": "GET /api/v2/models/{modelId}/capabilities",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "406875a5",
+      "name": "positive_406875a5",
+      "endpoint": "GET /api/v2/models/{modelId}/operation-histories",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "6658bbf9",
+      "name": "positive_6658bbf9",
+      "endpoint": "GET /api/v2/operations/{vin}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "393c26d8",
+      "name": "positive_393c26d8",
+      "endpoint": "DELETE /api/v2/optional-part/{id}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "3f3b9a1c",
+      "name": "positive_3f3b9a1c",
+      "endpoint": "GET /api/v2/optional-parts",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "186a082f",
+      "name": "positive_186a082f",
+      "endpoint": "GET /api/v2/optional-parts/{id}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "9f8157d9",
+      "name": "positive_9f8157d9",
+      "endpoint": "GET /api/v2/platform-version/configuration",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "2268d986",
+      "name": "positive_2268d986",
+      "endpoint": "DELETE /api/v2/platform-version/configuration/{id}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "d36949c9",
+      "name": "positive_d36949c9",
+      "endpoint": "GET /api/v2/qcode",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "c8893677",
+      "name": "positive_c8893677",
+      "endpoint": "GET /api/v2/series/brands/{brand}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "59b15370",
+      "name": "positive_59b15370",
+      "endpoint": "GET /api/v2/series/info",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "f481c110",
+      "name": "positive_f481c110",
+      "endpoint": "GET /api/v2/sims",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "3a61033f",
+      "name": "positive_3a61033f",
+      "endpoint": "GET /api/v2/sims/carriers",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "d7a8e497",
+      "name": "positive_d7a8e497",
+      "endpoint": "GET /api/v2/sims/compensationVehicleCellular",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "27eb323d",
+      "name": "positive_27eb323d",
+      "endpoint": "GET /api/v2/sims/{id}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "27eb323d",
+      "name": "positive_27eb323d",
+      "endpoint": "DELETE /api/v2/sims/{id}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "e7eab1f1",
+      "name": "positive_e7eab1f1",
+      "endpoint": "GET /api/v2/sims/{msisdn}/vehicles",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "ca06b48b",
+      "name": "positive_ca06b48b",
+      "endpoint": "GET /api/v2/software-version/configuration",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "a5a82681",
+      "name": "positive_a5a82681",
+      "endpoint": "DELETE /api/v2/software-version/configuration/{id}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "970ac86b",
+      "name": "positive_970ac86b",
+      "endpoint": "GET /api/v2/tags",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "77eb38b2",
+      "name": "positive_77eb38b2",
+      "endpoint": "DELETE /api/v2/tags/{id}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "9b44375b",
+      "name": "positive_9b44375b",
+      "endpoint": "GET /api/v2/tags/{tagId}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "7ae488d3",
+      "name": "positive_7ae488d3",
+      "endpoint": "GET /api/v2/users/vehicles/{vin}/wifiStickStatus",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "54ddec9f",
+      "name": "positive_54ddec9f",
+      "endpoint": "GET /api/v2/vehicle/devices/ocus/siminfo",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "7da787c7",
+      "name": "positive_7da787c7",
+      "endpoint": "POST /api/v2/vehicle/model/action/reselect",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "8c6017eb",
+      "name": "positive_8c6017eb",
+      "endpoint": "GET /api/v2/vehicles",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "d7ec4c6a",
+      "name": "positive_d7ec4c6a",
+      "endpoint": "GET /api/v2/vehicles/devices/manufactures",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "e200cdbb",
+      "name": "positive_e200cdbb",
+      "endpoint": "GET /api/v2/vehicles/devices/ocu/download",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "86f43d50",
+      "name": "positive_86f43d50",
+      "endpoint": "GET /api/v2/vehicles/devices/ocu/download/data",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "61270ab3",
+      "name": "positive_61270ab3",
+      "endpoint": "GET /api/v2/vehicles/devices/ocu/history",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "91936b00",
+      "name": "positive_91936b00",
+      "endpoint": "POST /api/v2/vehicles/devices/ocu/import",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "dc325884",
+      "name": "positive_dc325884",
+      "endpoint": "POST /api/v2/vehicles/devices/ocu/importVin",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "fe4c9e0a",
+      "name": "positive_fe4c9e0a",
+      "endpoint": "GET /api/v2/vehicles/devices/ocu/list",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "006c54c9",
+      "name": "positive_006c54c9",
+      "endpoint": "POST /api/v2/vehicles/devices/platform-version/import",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "b1a2cfbd",
+      "name": "positive_b1a2cfbd",
+      "endpoint": "GET /api/v2/vehicles/devices/{deviceSn}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "203dadf4",
+      "name": "positive_203dadf4",
+      "endpoint": "GET /api/v2/vehicles/partial-info/{vin}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "5aea3715",
+      "name": "positive_5aea3715",
+      "endpoint": "GET /api/v2/vehicles/platform-version",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "365d77ae",
+      "name": "positive_365d77ae",
+      "endpoint": "DELETE /api/v2/vehicles/{id}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "aba1a15d",
+      "name": "positive_aba1a15d",
+      "endpoint": "GET /api/v2/vehicles/{vehicle_id}/device-type/{device_type}/history",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "175b2753",
+      "name": "positive_175b2753",
+      "endpoint": "DELETE /api/v2/vehicles/{vins}/edit/tags",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "739d6cd0",
+      "name": "positive_739d6cd0",
+      "endpoint": "GET /api/v2/vehicles/{vin}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "1f57f6a2",
+      "name": "positive_1f57f6a2",
+      "endpoint": "GET /api/v2/vehicles/{vin}/capabilities",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "ee139d5b",
+      "name": "positive_ee139d5b",
+      "endpoint": "GET /api/v2/vehicles/{vin}/devices",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "7159b03c",
+      "name": "positive_7159b03c",
+      "endpoint": "GET /api/v2/vehicles/{vin}/devices/cdi",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "c273d8fb",
+      "name": "positive_c273d8fb",
+      "endpoint": "GET /api/v2/vehicles/{vin}/devices/headunits",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "0fe49c6d",
+      "name": "positive_0fe49c6d",
+      "endpoint": "GET /api/v2/vehicles/{vin}/devices/ocus",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "509307a1",
+      "name": "positive_509307a1",
+      "endpoint": "GET /api/v2/vehicles/{vin}/devices/ocus/sims",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "a38fcd58",
+      "name": "positive_a38fcd58",
+      "endpoint": "GET /api/v2/vehicles/{vin}/devices/ocus/sims/{iccid}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "cbd18a8f",
+      "name": "positive_cbd18a8f",
+      "endpoint": "GET /api/v2/vehicles/{vin}/devices/ocus/{deviceId}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "62c7d958",
+      "name": "positive_62c7d958",
+      "endpoint": "GET /api/v2/vehicles/{vin}/devices/part-no",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "027611fd",
+      "name": "positive_027611fd",
+      "endpoint": "GET /api/v2/vehicles/{vin}/function-on-demand",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "eb75b782",
+      "name": "positive_eb75b782",
+      "endpoint": "GET /api/v2/vehicles/{vin}/function-on-demand/{serviceId}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "8c0bbe62",
+      "name": "positive_8c0bbe62",
+      "endpoint": "GET /api/v2/vehicles/{vin}/hand-book",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "d1d03959",
+      "name": "positive_d1d03959",
+      "endpoint": "GET /api/v2/vehicles/{vin}/images",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "0e753433",
+      "name": "positive_0e753433",
+      "endpoint": "GET /api/v2/vehicles/{vin}/importer-no",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "274785cd",
+      "name": "positive_274785cd",
+      "endpoint": "GET /api/v2/vehicles/{vin}/model",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "b50afbdc",
+      "name": "positive_b50afbdc",
+      "endpoint": "GET /api/v2/vehicles/{vin}/platform-version",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "b50afbdc",
+      "name": "positive_b50afbdc",
+      "endpoint": "DELETE /api/v2/vehicles/{vin}/platform-version",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "74f8d0c1",
+      "name": "positive_74f8d0c1",
+      "endpoint": "GET /api/v2/vehicles/{vin}/quality-cert",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "a2ae24a4",
+      "name": "positive_a2ae24a4",
+      "endpoint": "GET /api/v2/vehicles/{vin}/real-name",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "c0b93d07",
+      "name": "positive_c0b93d07",
+      "endpoint": "POST /api/v2/vehicles/{vin}/software-version/{software}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "ac85c91a",
+      "name": "positive_ac85c91a",
+      "endpoint": "GET /api/v2/vehicles/{vin}/ticket-system",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "8cb92b75",
+      "name": "positive_8cb92b75",
+      "endpoint": "GET /api/v2/vehicles/{vin}/vehicle-data",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "56251f8e",
+      "name": "positive_56251f8e",
+      "endpoint": "GET /api/v3/test/vehicle/model/amend",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "e1073c53",
+      "name": "positive_e1073c53",
+      "endpoint": "GET /api/v3/test/vehicle/model/realign",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "f9458764",
+      "name": "positive_f9458764",
+      "endpoint": "PUT /api/v3/test/vehicle/model/{modelId}/deleted",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "5201bcb1",
+      "name": "positive_5201bcb1",
+      "endpoint": "GET /api/v3/vehicles/devices/{deviceSn}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "cd5a4717",
+      "name": "positive_cd5a4717",
+      "endpoint": "GET /api/v3/vehicles/images",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "f27b6fa7",
+      "name": "positive_f27b6fa7",
+      "endpoint": "GET /api/v3/vehicles/{vin}",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "64ba86b2",
+      "name": "positive_64ba86b2",
+      "endpoint": "GET /api/v3/vehicles/{vin}/brand",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "ea22ec86",
+      "name": "positive_ea22ec86",
+      "endpoint": "GET /api/v3/vehicles/{vin}/devices/ocus/sims",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "c7b02edb",
+      "name": "positive_c7b02edb",
+      "endpoint": "GET /api/v3/vehicles/{vin}/feature",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    },
+    {
+      "test_id": "4ea615f0",
+      "name": "positive_4ea615f0",
+      "endpoint": "GET /api/v3/vehicles/{vin}/images",
+      "payload": {},
+      "expected_status": 200,
+      "timeout": 30,
+      "priority": 3,
+      "tags": []
+    }
+  ]
+}

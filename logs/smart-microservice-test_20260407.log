@@ -1,0 +1,16 @@
+2026-04-07 14:31:04,497 - smart-microservice-test - INFO - Info message
+2026-04-07 14:31:04,497 - smart-microservice-test - WARNING - Warning message
+2026-04-07 14:31:04,497 - smart-microservice-test - ERROR - Error message
+2026-04-07 14:31:04,497 - smart-microservice-test - CRITICAL - Critical message
+2026-04-07 14:31:47,855 - smart-microservice-test - INFO - Info message
+2026-04-07 14:31:47,861 - smart-microservice-test - WARNING - Warning message
+2026-04-07 14:31:47,861 - smart-microservice-test - ERROR - Error message
+2026-04-07 14:31:47,862 - smart-microservice-test - CRITICAL - Critical message
+2026-04-07 14:32:05,763 - smart-microservice-test - INFO - Info message
+2026-04-07 14:32:05,764 - smart-microservice-test - WARNING - Warning message
+2026-04-07 14:32:05,764 - smart-microservice-test - ERROR - Error message
+2026-04-07 14:32:05,765 - smart-microservice-test - CRITICAL - Critical message
+2026-04-07 14:32:38,566 - smart-microservice-test - INFO - Info message
+2026-04-07 14:32:38,572 - smart-microservice-test - WARNING - Warning message
+2026-04-07 14:32:38,572 - smart-microservice-test - ERROR - Error message
+2026-04-07 14:32:38,573 - smart-microservice-test - CRITICAL - Critical message
